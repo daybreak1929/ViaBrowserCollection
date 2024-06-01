@@ -120,9 +120,9 @@ via浏览器更新5.0后便支持脚本设置，打开方式有：
 
 ## 💡有关via的其他推荐
 
-[广告拦截规则+浏览器标识+图标包等](https://gitee.com/half-dream-half-wake/script-share/blob/master/messy-cont.md)
+[广告拦截规则+浏览器标识+图标包等](https://github.com/daybreak1929/ViaBrowserCollection/blob/main/messy-cont.md)
 
-[via浏览器自带的一些冷门小功能](https://gitee.com/half-dream-half-wake/script-share/blob/master/via-help.md)
+[via浏览器自带的一些冷门小功能](https://github.com/daybreak1929/ViaBrowserCollection/blob/main/via-help.md)
 
 [via浏览器的QQ频道](https://pd.qq.com/s/142yif2dj)
 
