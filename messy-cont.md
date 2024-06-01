@@ -310,10 +310,10 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 *****
 
 ## 💡其他(Others)
-1. 油猴脚本收藏夹([→戳这看介绍←](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md))
+1. 油猴脚本收藏夹([→戳这看介绍←](https://github.com/daybreak1929/ViaBrowserCollection/blob/main/README.md))
 - [→GreasyFork收藏夹(via浏览器可用)地址←](https://greasyfork.org/zh-CN/scripts?set=586537)
 
-2. [via的小功能合集](https://gitee.com/half-dream-half-wake/script-share/blob/master/via-help.md)
+2. [via的小功能合集](https://github.com/daybreak1929/ViaBrowserCollection/blob/main/via-help.md)
 
 3. [via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
 
