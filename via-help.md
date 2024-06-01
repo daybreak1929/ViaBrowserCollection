@@ -275,9 +275,9 @@ color:red !important;
 
 ## 💡有关via的其他推荐
 
-[via浏览器可用脚本推荐](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
+[via浏览器可用脚本推荐](https://github.com/daybreak1929/ViaBrowserCollection/blob/main/README.md)
 
-[广告拦截规则+浏览器标识+图标包等](https://gitee.com/half-dream-half-wake/script-share/blob/master/messy-cont.md)
+[广告拦截规则+浏览器标识+图标包等](https://github.com/daybreak1929/ViaBrowserCollection/blob/main/messy-cont.md)
 
 [(官方问答)Android版via常见问题文档](https://viayoo.com/zh-cn/docs/via-for-android-faq.html)
 
