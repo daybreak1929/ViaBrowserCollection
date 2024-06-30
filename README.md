@@ -1,6 +1,4 @@
-# Via浏览器收藏合集ViaBrowserCollection
-
-## 💡保持一颗学习的心
+# Via浏览器收藏合集
 
 ![此项目logo](logo.png)
 
