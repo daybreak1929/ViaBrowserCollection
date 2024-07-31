@@ -1,8 +1,8 @@
 # Via浏览器收藏合集
 
-![此项目logo](logo.png)
+![输入图片说明](logo.png)
 
-简体中文|
+简体中文 |
 
 > 此收藏合集涵盖内容较多，部分收藏内容并非仅限via浏览器可以使用
 
@@ -10,28 +10,44 @@
 
 ## 💡项目目录
 
-- [油猴脚本集介绍](script-share.md)(含greasyfork站点的脚本集及相关脚本的介绍推荐)
+- [问答与使用技巧](cn/FAQ.md)(含问题解决方法、相应限制等)
+
+- [油猴脚本集介绍](cn/script-share.md)(含greasyfork站点的脚本集、相关脚本的介绍推荐及via中相关的设置)
 ​
-- [奇奇怪怪的推荐](messy-cont.md)(包含广告拦截规则、浏览器标识、搜索引擎、via主页、via图标包等)
+- [奇奇怪怪的推荐](cn/messy-cont.md)(包含广告拦截规则、浏览器标识、搜索引擎、via主页、via图标包等)
 ​
-- [via的小功能或冷门知识](via-help.md)(包含一些隐蔽的功能效果、可自定义部分、问题解决方法)
+- [via的小功能或冷门知识](cn/via-help.md)(包含一些隐蔽的功能效果、可自定义部分)
 
 *****
 
 ## 💡项目外链
 
-[via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
+⚠请使用“[去除链接重定向](https://greasyfork.org/scripts/483475)”脚本跳过Gitee自带的拦截，即下图这个情况
 
-[via历史版本(官方版，豌豆荚链接)](https://m.wandoujia.com/apps/6609177/history)
-
-[(via官方问答)Android版via常见问题文档](https://viayoo.com/zh-cn/docs/via-for-android-faq.html)
-
-[(via官方教程)使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)
-
-[谷歌商店里的Android Webview](https://play.google.com/store/apps/details?id=com.google.android.webview)
+![输入图片说明](cn/img/giteeRedirect.png)
 
 *****
 
-## 💡特别鸣谢
+via官方的[QQ频道 ](https://pd.qq.com/s/142yif2dj)| [TG群组](https://t.me/+bMMIgOk0cnA3YjI9)
 
-[酷安@various](http://www.coolapk.com/u/441319) V大制作的[Via浏览器](https://www.coolapk.com/apk/mark.via)
+via官网的[Android版via常见问题文档](https://viayoo.com/zh-cn/docs/via-for-android-faq.html)|[使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)|[Scheme介绍文档](https://viayoo.com/zh-cn/docs/about-the-uri-scheme-of-via-for-android.html)
+
+[chrome与via同步书签(千寻博客)](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/)
+
+[via浏览器各版本的拾穗整理(SGFOX博客)](https://www.sgfox.cc/archives/via-shisui.html)
+
+[via历史版本(官方版，豌豆荚链接)](https://m.wandoujia.com/apps/6609177/history)
+
+[谷歌商店里的AndroidSystemWebview](https://play.google.com/store/apps/details?id=com.google.android.webview)
+
+*****
+
+## 💡后话
+
+> “希望via能长久地同你浏览这个世界所共享的” <details> <summary> 详细展开 </summary> ![输入图片说明](cn/img/FirstAnniversary.png) </details>
+
+> 正如开发者所构想的那般，Via仍走在简的路上探索。但相比从前，用户也在不断涌入，目前在酷安上已是1千万下载的量级，也有、也需要诸如[谷花泰](http://www.coolapk.com/u/486230)、[达蒙山](http://www.coolapk.com/u/1563443)、[undefined303](http://www.coolapk.com/u/4023639)、[耗子Sky](http://www.coolapk.com/u/1166187)以及其他无数制作教程合集的大佬们在为其保持活力。这就同v大所说“其实是取音的，音同‘we are’” “其实这个‘我们’指的是方寸屏幕前的你我”，我们正在共同构建起一个属于自己的“我们”，既然如此，我何不贡献自己的一份力呢？
+
+特别鸣谢
+
+[酷安@various](http://www.coolapk.com/u/441319) V大制作的Via浏览器[[酷安](https://www.coolapk.com/apk/mark.via)|[官网](https://viayoo.com)]
