@@ -1,11 +1,5 @@
 # via小功能或冷门知识
 
-## ⚠请使用“[去除链接重定向](https://greasyfork.org/scripts/483475)”脚本跳过Gitee自带的拦截，即下图这个情况
-
-![输入图片说明](img/giteeRedirect.png)
-
-*****
-
 ## 💡via设置
 
 ### ✧操作设定✧
