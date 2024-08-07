@@ -12,11 +12,11 @@
 
 3.总是提示有不安全弹窗，能否关闭？
 
-> 触发情况类似下图 <br> ![输入图片说明](img/SSLwarn.png) <br> 设置＞高级＞忽略SSL证书警告，该功能主要是用于提醒站点是否证书齐全 <br> 忽略后仍然可以在地址栏左侧图标中查看(如下图) <br> ![输入图片说明](img/SSL.png)
+> 触发情况类似下图 <br> ![输入图片说明](img/SSLwarn.png) <br> 设置＞高级＞忽略SSL证书警告，该功能主要是用于提醒站点证书是否有效 <br> 忽略后仍然可以在地址栏左侧图标中查看(如下图) <br> ![输入图片说明](img/SSL.png)
 
 4.如何查询系统webview版本号？怎么更新系统webview？
 
-> ❶查询版本:①设置＞关于，第十行的“WebView Version”后面就是版本号 <br> ②设置＞关于，如果不是华为鸿蒙系统，长按via的logo就可以打开webview的开发者工具，如下图所示就是webview版本号 <br> ![输入图片说明](img/webviewVersion.png) <br> (⚠注意：华为鸿蒙系统的最新版的HUAWEI webview可类似Android webview的99版本) <br> ❷更新版本:最稳妥的方法就是到谷歌商店里，进入[系统webview](https://play.google.com/store/apps/details?id=com.google.android.webview)链接，点击菜单中“其他应用打开”或者长按菜单中“分享”，然后选择GooglePlay即可开始下载安装
+> ❶查询版本:①设置＞关于，点击via的logo，第十行的“WebView Version”后面就是版本号 <br> ②设置＞关于，如果不是华为鸿蒙系统，长按via的logo就可以打开webview的开发者工具，如下图所示就是webview版本号 <br> ![输入图片说明](img/webviewVersion.png) <br> (⚠注意：华为鸿蒙系统的最新版的HUAWEI webview可类似Android webview的99版本) <br> ❷更新版本:最稳妥的方法就是到谷歌商店里，进入[系统webview](https://play.google.com/store/apps/details?id=com.google.android.webview)链接，点击菜单中“其他应用打开”或者长按菜单中“分享”，然后选择GooglePlay即可开始下载安装
 
 5.网页版式出现错误？
 
@@ -24,7 +24,7 @@
 
 6.各种同步方式有什么差异？
 
-> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式</small> <br> ①数据方面：webdav同步=导入/备份数据＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页、离线页面和自定义规则。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条 <br> ②跨浏览器备份：webdav同步＞导入/备份数据=via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav？(不开玩笑了，还是希望iOS端早日更新)
+> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式</small> <br> ①数据方面：导入/备份数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页、离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/备份数据=via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav？(不开玩笑了，还是希望iOS端早日更新)
 
 7.夜间模式失效？网页没有变暗？
 
@@ -32,7 +32,7 @@
 
 8.via刷新不出网页？无法使用？
 
-> 1.回忆自己此前是否在启用/关闭🅅🄿🄽的瞬间仍然让via处于后台或小窗状态，如是，退掉via当前的后台或小窗重新进入即可，出现原因参考如下 <br> ![输入图片说明](img/fakeip.png) <br> 2.如不是或按照上述方法不能解决，尝试启用🅅🄿🄽后再进入via，如能解决说明是dns污染问题(类似GitHub软件能用，网站不能进) <br> 3.如仍然无法进入，按照“5.网页版式出现错误？”的流程走一边(应该主要是webview版本或者模块)
+> <small>请先确保自己网速正常，网络配置无误</small> <br> 1.回忆自己此前是否在启用/关闭🅅🄿🄽的瞬间仍然让via处于后台或小窗状态，如是，退掉via当前的后台或小窗重新进入即可，出现原因参考如下 <br> ![输入图片说明](img/fakeip.png) <br> 2.如不是或按照上述方法不能解决，尝试启用🅅🄿🄽后再进入via，如能解决说明是dns污染问题(类似GitHub软件能用，网站不能进) <br> 3.如仍然无法进入，按照“5.网页版式出现错误？”的流程走一边(应该主要是webview版本或者模块)
 
 9.via浏览器的隐私保护如何？
 
@@ -70,6 +70,7 @@
 ## 💡玩机技巧
 
 ⚠说明：此技巧不提供解bl和获取root权限教程，太麻烦也有点超出本收藏涵盖内容
+
 > 提前罗列可能需要用到的东西，如果GitHub不会进就用另一个
 
 MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://github.com/RikkaApps/Shizuku/releases)|[安卓网](http://m.2265.com/down/308553.html)]、InstallerX[[GitHub](https://github.com/iamr0s/InstallerX/releases)|[安卓网](http://m.2265.com/down/504743.html)]、HyperCeiler[[官网](https://cemiuiler.sevtinge.cc/Download.html)]
