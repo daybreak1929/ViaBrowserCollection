@@ -142,7 +142,7 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 > bing中国 <br> https://cn.bing.com/search?q= <br> via自带的为国际版，国内使用国际版会有一次重定向，或许可以规避一些加载慢的问题
 
-> Oceanhero(德国的搜索引擎，称每五次搜索就收集一个海洋塑料瓶) <br> https://oceanhero.today/web?q= <br> 无广告，完美的自动翻页，会保留到上次阅读词条，自带一个能识别中文但不会中文回答的AI
+> Oceanhero(德国的搜索引擎，称每五次搜索就收集一个海洋塑料瓶) <br> https://oceanhero.today/web?q= <br> 基于DuckDuckGo，无广告，完美的自动翻页，会保留到上次阅读词条，自带一个能识别中文但不会中文回答的AI
 
 > Whoogle(开源搜索引擎) <br> https://search.snine.nl/search?q= <br> 基于Google，无广告，[开源地址](https://github.com/benbusby/whoogle-search)
 
@@ -150,13 +150,13 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 > SearXNG(开源搜索引擎) <br> https://searx.si/search?q= <br> 聚合搜索引擎，无广告，不收集或跟踪用户数据；国内能使用的站点不一定稳定
 
-> Cynay(称是世界上第一个独立个体制作的搜索引擎) <br> https://cynay.com/search?q= <br> 基于Google，无广告，有点慢的自动翻页
+> Cynay(称是世界上第一个独立个体制作的搜索引擎) <br> https://cynay.com/search?q= <br> 基于Bing，无广告，有点慢的自动翻页
 
 > Qwant(法国搜索引擎) <br> https://www.qwant.com/?q= <br> 基于Bing，无广告，不收集或跟踪用户数据
 
 > eFind(美国搜索引擎) <br> https://efind.com/search?q= <br> 目前无广告，时好时坏的自动翻页
 
-> youcare(法国搜索引擎) <br> https://youcare.world/all?q= <br> 目前无广告，会保留到上次阅读页码
+> youcare(法国搜索引擎) <br> https://youcare.world/all?q= <br> 基于DuckDuckGo，目前无广告，会保留到上次阅读页码
 
 > Yandex(俄国搜索引擎) <br> https://www.yandex.com/search/touch/?text= <br> 有广告，但架不住美图多
 
@@ -174,13 +174,15 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 </details>
 
-<details><summary>AI搜索引擎列表(暂收录10个)</summary>
+<details><summary>AI搜索引擎列表(暂收录11个)</summary>
 
 > 天工AI <br> https://www.tiangong.cn/result?q=
 
 > 开搜AI <br> https://kaisouai.com?q=
 
 > ThinkAnyAI <br> https://thinkany.so/zh/search?source=all&q=
+
+> MikuAI <br> https://www.hellomiku.com/search?q=
 
 > 360AI <br> https://www.sou.com/?q=
 
@@ -254,6 +256,8 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 <details><summary>酷安 @大迈克 的魅族浏览器图标包</summary>
 
 [酷安 _@大迈克_ 的魅族浏览器图标包](https://www.lanzn.com/b012evkxc)，密码：35ug
+
+![输入图片说明](img/MeizuSkin.png)
 
 </details>
 
