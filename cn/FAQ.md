@@ -16,7 +16,7 @@
 
 4.如何查询系统webview版本号？怎么更新系统webview？
 
-> ❶查询版本:①设置＞关于，点击via的logo，第十行的“WebView Version”后面就是版本号 <br> ②设置＞关于，如果不是华为鸿蒙系统，长按via的logo就可以打开webview的开发者工具，如下图所示就是webview版本号 <br> ![输入图片说明](img/webviewVersion.png) <br> (⚠注意：华为鸿蒙系统的最新版的HUAWEI webview可类似Android webview的99版本) <br> ❷更新版本:最稳妥的方法就是到谷歌商店里，进入[系统webview](https://play.google.com/store/apps/details?id=com.google.android.webview)链接，点击菜单中“其他应用打开”或者长按菜单中“分享”，然后选择GooglePlay即可开始下载安装
+> ❶查询版本:①设置＞关于，点击via的logo，第十行的“WebView Version”后面就是版本号 <br> ②设置＞关于，如果不是华为鸿蒙系统，长按via的logo就可以打开webview的开发者工具，如下图所示就是webview版本号 <br> ![输入图片说明](img/webviewVersion.png) <br> (⚠注意：华为鸿蒙系统的最新的15版本HUAWEI webview可类似Android webview的114版本) <br> ❷更新版本:最稳妥的方法就是到谷歌商店里，进入[系统webview](https://play.google.com/store/apps/details?id=com.google.android.webview)链接，点击菜单中“其他应用打开”或者长按菜单中“分享”，然后选择GooglePlay即可开始下载安装
 
 5.网页版式出现错误？
 
@@ -24,7 +24,7 @@
 
 6.各种同步方式有什么差异？
 
-> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式</small> <br> ①数据方面：导入/备份数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页、离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/备份数据=via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav？(不开玩笑了，还是希望iOS端早日更新)
+> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式</small> <br> ①数据方面：导入/备份数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页和离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/备份数据=via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav？(不开玩笑了，还是希望iOS端早日更新)
 
 7.夜间模式失效？网页没有变暗？
 
@@ -43,6 +43,10 @@
 > 安装脚本：①[GreasyFork](https://greasyfork.org/scripts?filter_locale=0&set=586537)里直接找脚本，进入，点击“安装此脚本”，进入就可以解析安装。如遇下图提示，请点击框内部分，因为via浏览器自带脚本管理器，无需添加其他脚本管理器 <br> ![点击框内部分!](img/isee.png) <br> ②如果遇到无法解析安装的脚本，可以前往设置＞脚本，右上角添加符号选择“下载脚本”，把脚本链接复制进去(只有纯文字网址才能解析哦，不懂的话别乱填) <br> ③如果是本地脚本文件需要导入，可以前往设置＞脚本，右上角添加符号选择“导入脚本”选择
 
 > 失败原因：①点击安装后无任何反应，可能是via版本过低，前往[[酷安](https://www.coolapk.com/apk/mark.via)|[官网](https://viayoo.com)]更新，如更新后依旧，查看上述“安装脚本”的第二点 <br> ②底部弹窗“解析中”然后后续没有提示安装，尝试更新webview，如果仍然这样大概率是网络问题，更换或者确保自己网络好后再试 <br> ③底部弹窗“依赖失败”，说明脚本中有资源以你的网络无法访问，大概率是dns污染，可以尝试使用🅅🄿🄽解决 <br> ④底部弹窗“安装脚本失败”，参考②③
+
+11.Google安全验证提示“不安全”？Cloudflare人机验证频繁失败？知乎文章出现乱码？
+
+> 关闭“电脑模式”，然后将浏览器标识换成“默认” <br> 如仍然有问题，可尝试使用“5.网页版式出现错误？”中的方案
 
 *****
 
