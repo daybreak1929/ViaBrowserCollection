@@ -20,8 +20,7 @@ via大部分手势都是在 设置＞通用＞操作设定内
 
 大多图标都是有长按快捷键，这里列举主要的：
 
-<details>
-  <summary> ©展开部分按钮的长按功能介绍 </summary>
+<details><summary> ©展开部分按钮的长按功能介绍 </summary>
 
 <br>
 
@@ -81,7 +80,7 @@ via大部分手势都是在 设置＞通用＞操作设定内
 
 *****
 
-## 💡隐蔽的功能
+## 😶‍🌫️隐蔽的功能
 
 1. 标签栏内长按标签
 
@@ -179,11 +178,99 @@ color:red !important;
 
 </details>
 
+*****
 
+## 🧥via图标包(Skins)
+
+使用方法：在地址栏输入v://skins即可进入，点击右上角的添加符号(默认为“+”)找到对应压缩包即可
+
+![输入图片说明](img/addSkins.png)
+
+<details><summary>酷安 @半烟半雨溪桥畔 的图标包合集</summary>
+
+[酷安 _@半烟半雨溪桥畔_ 的图标包合集](https://www.lanzn.com/b0337qg1c)，密码：6666
+
+![输入图片说明](img/myskins.png)
+
+</details>
+
+<details><summary>酷安 @million先森 的图标包合集</summary>
+
+[酷安 _@million先森_ 的图标包合集](https://www.lanzn.com/b02dx028j)，密码：9sbt
+
+![输入图片说明](img/skins2.png)
+
+</details>
+
+<details><summary>酷安 @大迈克 的魅族浏览器图标包</summary>
+
+[酷安 _@大迈克_ 的魅族浏览器图标包](https://www.lanzn.com/b012evkxc)，密码：35ug
+
+![输入图片说明](img/MeizuSkin.png)
+
+</details>
+
+<details><summary>酷安 @hjiangs 的ViaRounded7.4图标包</summary>
+
+[酷安 _@hjiangs_ 的ViaRounded7.4图标包](https://lanzoup.com/iaChK1nwib4f)
+
+</details>
 
 *****
 
-## 💡地址栏新大陆(Scheme)
+## 🪟via主页定制(Via-Home)
+
+<details><summary> ✧完整主页推荐✧ </summary>
+
+1. [自用via定制主页](https://www.lanzn.com/b033jzlxa)，内含使用方法，密码：6666
+
+功能：屏蔽下滑聚焦地址栏，增加下滑聚焦搜索框、双击聚焦搜索框，支持切换搜索引擎，搜索框删中文按钮，简易书签抽屉，点击展示小书签窗口的渐变logo
+
+支持自定义，如有问题可找[酷安@半烟半雨溪桥畔](http://www.coolapk.com/u/20596394)
+
+<details><summary>具体自定义内容展开</summary>
+
+![输入图片说明](img/myHomeCSS.png)
+
+</details>
+
+![输入图片说明](img/myHome.gif)
+
+2. [酷安 _@腿短的二狗子_ 的主页](https://www.lanzn.com/b06eccgmd)，内含使用方法，密码：6666
+
+功能：在主页设置里支持GIF、mp4格式背景，支持显示天气和时间、搜索框左侧切换搜索引擎，搜索框右侧扫描二维码按钮，搜索框上方显示搜索历史，搜索框聚焦下移，完美书签抽屉
+
+支持自定义，如有问题可找[酷安@腿短的二狗子](http://www.coolapk.com/u/3632084)，
+
+<details><summary>具体自定义内容展开</summary>
+
+进入书签抽屉，右上角齿轮即是主页设置 
+
+![输入图片说明](img/home2Custom.png)
+
+</details>
+
+![输入图片说明](img/home2.gif)
+
+</details>
+
+…………………………
+
+单独的主页功能
+
+- [酷安 _@耗子Sky_ 的主页搜索框历史记录](https://bitbucket.org/!api/2.0/snippets/lemon399/aqLxK4/4eeca77988a73c5cbb8a998bf89af21caacd67ae/files/hist.html)
+
+进入链接，将代码全选，然后到设置＞定制＞Logo，选择“HTML代码”，将代码粘贴进去(代码前两行是via的自带logo，如果不需要可以删除)
+
+- [酷安 _@undefined303_ 的主页搜索框提取链接](https://lanzoup.com/iXv4a1bj8uuf)
+
+进入链接，将最新文件下载下来后，将里面的代码复制，然后到设置＞定制＞Logo，选择“HTML代码”，将代码粘贴进去
+
+- [收集的功能(暂含显示时间、天气、诗句)](https://www.lanzn.com/b033s67ib)，密码：6666
+
+*****
+
+## 🎈地址栏新大陆(Scheme)
 
 将下列东西粘贴到地址栏搜索会有奇妙的事情发生哦~
 
