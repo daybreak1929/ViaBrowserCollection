@@ -29,8 +29,6 @@
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[【移动端】bilibili优化](https://greasyfork.org/scripts/494644)(登录后拥有媲美APP的体验，顺便删除了有些功能失效的[哔哩哔哩超强防护](https://greasyfork.org/scripts/458276))[6.6]
 
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[帧率FPS显示](https://greasyfork.org/scripts/498194)[6.21]
-
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629)(顺便移除了不太好用的“HTTP重定向为HTTPS”)[6.29]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Github搜索净化](https://greasyfork.org/scripts/473912)(我来GitHub是来看开源项目学习的，不是来看反贼的)[6.29]
@@ -54,6 +52,8 @@
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)加回[YouTube去广告](https://greasyfork.org/scripts/459541)[7.30]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Twitterᴾˡᵘˢ](https://greasyfork.org/scripts/387969)(移除广告，图片恢复原清晰度)、[Twitter/X移除敏感内容提醒](https://greasyfork.org/scripts/492130)[7.31]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)更换[记录页面滚动](https://greasyfork.org/scripts/499828)(新加入的为脚本的新版本)[8.12]
 
 </details>
 
@@ -216,7 +216,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [边缘下滑刷新•改](https://greasyfork.org/scripts/482126)
 
-- [记录页面滚动](https://greasyfork.org/scripts/483745)(记录该网站上一次的位置，网页加载完毕后自动回到原位置，可惜不支持单独站点开关)
+- [记录页面滚动](https://greasyfork.org/scripts/499828)(记录该网站上一次的位置，网页加载完毕后自动回到原位置，可惜不支持单独站点开关)
 
 - [中英文之间加空白](https://greasyfork.org/scripts/470865)(在中文与英文/数字间穿插空格，让页面布局更符合直观感受)
 
