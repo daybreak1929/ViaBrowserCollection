@@ -236,7 +236,13 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 信息时代有无数新兴网站诞生也有无数新兴网站消亡，或许互联网真的不存在记忆，但对于普通用户的我们，仍然需要找寻相关资源
 
-> 占位符，收集网站ing
+> 导航站：[小众技术导航](https://www.xiaozhongjishu.com/)、[木晞i的资源汇总](https://yftdtddh.github.io/)、[AI工具箱](https://ai-bot.cn/)、[书享家](http://shuxiangjia.cn/)、[人人都懂物联网](https://getiot.tech/)、[学吧导航](https://www.xue8nav.com/)
+
+> 工具箱：[一个木函](https://ol.woobx.cn/)、[菜鸟工具](https://www.jyshare.com/)、[MikuTools](https://tools.miku.ac/)、[爱资料工具箱](https://www.toolnb.com/)、[视频在线下载器](https://www.online-downloader.com/index-Chinese)(主要支持国外网站)
+
+> 热点：[今日热榜](https://hot.dao.js.cn/)、[全站热榜](https://rebang.today/)、[每日早报晚报](https://tophub.today/daily)
+
+> 其他：[免费音乐MyFreeMP3](http://tool.liumingye.cn/music/)、[纪妖](https://www.cbaigui.com/)(古今中外各类妖怪)、Ayouth的[影视](https://ayouth.top/ayouth/video.html)|[动漫](https://ayouth.top/ayouth/animation.html)站点推荐
 
 *****
 
