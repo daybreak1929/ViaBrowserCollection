@@ -2,7 +2,7 @@
 
 ![输入图片说明](logo.png)
 
-简体中文 |
+[Gitee](https://gitee.com/daybreak166/ViaBrowserCollection)|GitHub & 简体中文 |
 
 > 此收藏合集涵盖内容较多，部分收藏内容并非仅限via浏览器可以使用
 
@@ -14,9 +14,9 @@
 
 - [油猴脚本集介绍](cn/script-share.md)(含greasyfork站点的脚本集、相关脚本的介绍推荐及via中相关的设置)
 ​
-- [奇奇怪怪的推荐](cn/messy-cont.md)(包含广告拦截规则、浏览器标识、搜索引擎、via主页、via图标包等)
+- [奇奇怪怪的推荐](cn/messy-cont.md)(包含广告拦截规则、浏览器标识、搜索引擎、网站推荐等)
 ​
-- [via的小功能或冷门知识](cn/via-help.md)(包含一些隐蔽的功能效果、可自定义部分)
+- [via的小功能或冷门知识](cn/via-help.md)(包含一些功能效果、主页功能、图标包和其他可自定义部分)
 
 *****
 
