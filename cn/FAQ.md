@@ -1,5 +1,7 @@
 # 问答专区与使用技巧
 
+*****
+
 ## 💡问答专区
 
 1.官方问答镇楼
@@ -101,7 +103,7 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 
 2.via的白名单网站
 
-> <small>前车之鉴：[猎豹浏览器(2013)](https://m.ithome.com/html/066346.htm)/[遨游浏览器(2018)](https://m.sohu.com/a/253821367_221481/?pvid=000115_3w_a)/[双核、极速、小白、星辰(2020)](https://tech.ifeng.com/c/7vJHVsuJ1WS)/[星尘(2021)](https://baijiahao.baidu.com/s?id=1691743082915677777)/[X浏览器(2021)](https://baijiahao.baidu.com/s?id=1706950075530202644)/[雨见浏览器(2022)](https://www.ghxi.com/new2022071903.html)/[星愿浏览器(2022)](https://baijiahao.baidu.com/s?id=1744181482261724312)</small> <br> ①资源嗅探白名单 <br> v.qq.com,youku.com,iqiyi.com,mgtv.com,bilibili.com,ximalaya.com,film.qq.com <br> ②广告拦截白名单 <br> v.qq.com,youku.com,iqiyi.com,mgtv.com,film.qq.com <br> ③脚本白名单 <br> v.qq.com,film.qq.com
+> <small>前车之鉴：[猎豹(2013)](https://m.ithome.com/html/066346.htm)/[UC(2015)](http://www.msweekly.com/mobile/show.html?id=40898)/[桔子(2017)](https://m.sohu.com/a/213016655_114760)/[遨游(2018)](https://m.sohu.com/a/253821367_221481/?pvid=000115_3w_a)/[世界之窗(2019)](https://tech.sina.cn/i/gn/2019-01-04/detail-ihqfskcn4151847.d.html)/[双核、极速、小白、星辰(2020)](https://tech.ifeng.com/c/7vJHVsuJ1WS)/[星尘(2021)](https://baijiahao.baidu.com/s?id=1691743082915677777)/[X浏览器(2021)](https://baijiahao.baidu.com/s?id=1706950075530202644)/[傲游(2021)](https://baijiahao.baidu.com/s?id=1711945942788642414)/[雨见(2022)](https://www.ghxi.com/new2022071903.html)/[星愿(2022)](https://baijiahao.baidu.com/s?id=1744181482261724312)</small> <br> ①资源嗅探白名单 <br> v.qq.com,youku.com,iqiyi.com,mgtv.com,bilibili.com,ximalaya.com,film.qq.com <br> ②广告拦截白名单 <br> v.qq.com,youku.com,iqiyi.com,mgtv.com,film.qq.com <br> ③脚本白名单 <br> v.qq.com,film.qq.com
 
 *****
 
