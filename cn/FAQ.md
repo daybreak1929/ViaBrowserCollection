@@ -99,7 +99,11 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 
 > <small>CRX | 浏览器插件/扩展系统</small> (无法解决，技术不支持) <br> <small>Devtools | 开发者工具</small> (使用脚本[网页调试](https://greasyfork.org/scripts/475228)) <br> <small>ChromeCast | Google投屏协议</small> (听说有计划搞投屏，但可能与这个不同) <br> <small>PIP | 原生画中画</small> (考虑中，可能基于系统小窗制作) <br> <small>PasswordSave | 保存网站密码</small> (不考虑，有此需求详见最顶上的官方问答)
 
-2.via的白名单网站
+2.历代webview存在的问题(以AndroidWebview版号为准)
+
+> 100及以前版本存在link引用的css可能无法正确加载的问题，例如百度百科排版异常 <br> 105前后(具体不明) 搜索记录缓存重复写入BrowserMetrics文件夹导致软件占用异常大的问题，在“💡使用技巧”中的4有提及 <br> 118至今 系统长按菜单的中文缺失问题，例如：Share/Web Search缺失翻译 <br> 126~129 系统字体异常问题，例如字体无故变粗/变细
+
+3.via的白名单网站
 
 > <small>前车之鉴：[猎豹(2013)](https://m.ithome.com/html/066346.htm)/[UC(2015)](http://www.msweekly.com/mobile/show.html?id=40898)/[桔子(2017)](https://m.sohu.com/a/213016655_114760)/[遨游(2018)](https://m.sohu.com/a/253821367_221481/?pvid=000115_3w_a)/[世界之窗(2019)](https://tech.sina.cn/i/gn/2019-01-04/detail-ihqfskcn4151847.d.html)/[双核、极速、小白、星辰(2020)](https://tech.ifeng.com/c/7vJHVsuJ1WS)/[星尘(2021)](https://baijiahao.baidu.com/s?id=1691743082915677777)/[X浏览器(2021)](https://baijiahao.baidu.com/s?id=1706950075530202644)/[傲游(2021)](https://baijiahao.baidu.com/s?id=1711945942788642414)/[雨见(2022)](https://www.ghxi.com/new2022071903.html)/[星愿(2022)](https://baijiahao.baidu.com/s?id=1744181482261724312)</small> <br> ①资源嗅探白名单 <br> v.qq.com,youku.com,iqiyi.com,mgtv.com,bilibili.com,ximalaya.com,film.qq.com <br> ②广告拦截白名单 <br> v.qq.com,youku.com,iqiyi.com,mgtv.com,film.qq.com <br> ③脚本白名单 <br> v.qq.com,film.qq.com
 
