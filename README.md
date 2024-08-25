@@ -2,9 +2,9 @@
 
 ![输入图片说明](logo.png)
 
-[Gitee](https://gitee.com/daybreak166/ViaBrowserCollection)|GitHub & 简体中文 |
+[Gitee](https://gitee.com/daybreak166/ViaBrowserCollection)|GitHub • [意见反馈](https://github.com/daybreak1929/ViaBrowserCollection/issues) • [更新日志](https://github.com/daybreak1929/ViaBrowserCollection/commits/main/)
 
-> 此收藏合集涵盖内容较多，部分收藏内容并非仅限via浏览器可以使用
+> 此收藏合集涵盖内容较多，部分收藏内容并非仅限via浏览器可以使用;本人无iOS设备，还请自行尝试能否使用
 
 *****
 
@@ -32,7 +32,9 @@ via官网的[Android版via常见问题文档](https://viayoo.com/zh-cn/docs/via-
 
 [via历史版本(官方版，豌豆荚链接)](https://m.wandoujia.com/apps/6609177/history)
 
-[谷歌商店里的AndroidSystemWebview](https://play.google.com/store/apps/details?id=com.google.android.webview)
+[最新版AndroidWebview](https://play.google.com/store/apps/details?id=com.google.android.webview)(确保[谷歌服务框架](http://m.3673.com/down/7083.html)和[谷歌商店](http://m.3673.com/down/17484.html)能正常运行或登录)
+
+[15版本的Huaweiwebview(123盘)](https://www.123pan.com/s/lxFKVv-CEJJA.html?pwd=JFv2)(密码JFv2，相当于Androidwebview114版本)
 
 *****
 
