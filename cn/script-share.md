@@ -27,13 +27,11 @@
 
   <summary> 展开 </summary>
 
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[【移动端】bilibili优化](https://greasyfork.org/scripts/494644)(登录后拥有媲美APP的体验，顺便删除了有些功能失效的[哔哩哔哩超强防护](https://greasyfork.org/scripts/458276))[6.6]
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[【移动端】bilibili优化](https://greasyfork.org/scripts/494644)(登录后拥有媲美APP的体验，顺便移除了有些功能失效的“哔哩哔哩超强防护“)[6.6]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629)(顺便移除了不太好用的“HTTP重定向为HTTPS”)[6.29]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Github搜索净化](https://greasyfork.org/scripts/473912)(我来GitHub是来看开源项目学习的，不是来看反贼的)[6.29]
-
-- [不可说の篇](https://sleazyfork.org/scripts?filter_locale=0&set=590678)添加[ComicRead](https://greasyfork.org/scripts/493257)[6.29]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[网站综合去元素框架](https://greasyfork.org/scripts/498122)[6.29]
 
@@ -54,6 +52,8 @@
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Twitterᴾˡᵘˢ](https://greasyfork.org/scripts/387969)(移除广告，图片恢复原清晰度)、[Twitter/X移除敏感内容提醒](https://greasyfork.org/scripts/492130)[7.31]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)更换[记录页面滚动](https://greasyfork.org/scripts/499828)(新加入的为脚本的新版本)[8.12]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Youtube双语字幕版](https://greasyfork.org/scripts/504796)(需要在网页上启用字幕才能显示双语，顺便移除了有点失效的“Youtube双语字幕全平台”)[8.25]
 
 </details>
 
@@ -178,7 +178,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [EhSyringe](https://greasyfork.org/scripts/407833)(E站几乎完美的汉化)
 
-- [Youtube双语字幕全平台](https://greasyfork.org/scripts/464879)(视频双语字幕，需设置开启)
+- [Youtube双语字幕版](https://greasyfork.org/scripts/504796)(字幕显示中文，需在网页上开启字幕)
 
 - [Pokemon Showdown完整汉化](https://greasyfork.org/scripts/484270)(网页游戏“宝可梦对战”的汉化) 和[ Milky Way Idle汉化](https://greasyfork.org/scripts/490242)(网页游戏“银河奶牛放置”的汉化)
 
