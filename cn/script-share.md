@@ -27,8 +27,6 @@
 
   <summary> 展开 </summary>
 
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[【移动端】bilibili优化](https://greasyfork.org/scripts/494644)(登录后拥有媲美APP的体验，顺便移除了有些功能失效的“哔哩哔哩超强防护“)[6.6]
-
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629)(顺便移除了不太好用的“HTTP重定向为HTTPS”)[6.29]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Github搜索净化](https://greasyfork.org/scripts/473912)(我来GitHub是来看开源项目学习的，不是来看反贼的)[6.29]
@@ -53,7 +51,11 @@
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)更换[记录页面滚动](https://greasyfork.org/scripts/499828)(新加入的为脚本的新版本)[8.12]
 
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Youtube双语字幕版](https://greasyfork.org/scripts/504796)(需要在网页上启用字幕才能显示双语，顺便移除了有点失效的“Youtube双语字幕全平台”)[8.25]
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Youtube双语字幕版](https://greasyfork.org/scripts/504796)(需要在网页上启用字幕才能显示双语)[8.25]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)加回[Youtube双语字幕全平台](https://greasyfork.org/zh-CN/scripts/464879)(效果和上方脚本类似，无需多用，只是看后续适配情况)[8.29]
+
+- [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[追放官方社区移动版电脑宽屏页面适配](https://greasyfork.org/zh-CN/scripts/505037)(仅适合平板等宽屏场景)[8.29]
 
 </details>
 
@@ -148,7 +150,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧翻译/汉化/语言类(11个)✧ </summary>
+  <summary> ✧翻译/汉化/语言类(12个)✧ </summary>
 
 - [简约翻译KISS Translator](https://greasyfork.org/scripts/472840)
 
@@ -178,7 +180,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [EhSyringe](https://greasyfork.org/scripts/407833)(E站几乎完美的汉化)
 
-- [Youtube双语字幕版](https://greasyfork.org/scripts/504796)(字幕显示中文，需在网页上开启字幕)
+- [Youtube双语字幕版](https://greasyfork.org/scripts/504796) 或[ Youtube双语字幕全平台](https://greasyfork.org/zh-CN/scripts/464879)(字幕显示中文，需在网页上开启字幕)
 
 - [Pokemon Showdown完整汉化](https://greasyfork.org/scripts/484270)(网页游戏“宝可梦对战”的汉化) 和[ Milky Way Idle汉化](https://greasyfork.org/scripts/490242)(网页游戏“银河奶牛放置”的汉化)
 
@@ -274,7 +276,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧作用于单一站点(39个)✧ </summary>
+  <summary> ✧作用于单一站点(40个)✧ </summary>
 
 - [蓝奏云重定向+记住密码](https://greasyfork.org/scripts/488847) 或 [ 蓝奏云自动点击下载](https://greasyfork.org/scripts/489281)(脚本功能开始冲突了，主推前者更适合via)
 
@@ -333,6 +335,8 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 - [AcWing Better!](https://greasyfork.org/scripts/464981)
 
 - [Codeforces Better!](https://greasyfork.org/scripts/465777)
+
+- [追放官方社区移动版电脑宽屏页面适配](https://greasyfork.org/zh-CN/scripts/505037)(仅适合平板等宽屏场景)
 
 </details>
 
