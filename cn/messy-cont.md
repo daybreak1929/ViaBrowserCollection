@@ -60,7 +60,7 @@ baidu.com##[data-video-play-type="true"]
 
 </details>
 
-> 自定义规则一般很少用到，因为菜单中的“标记广告”功能(如果没找到就长按菜单中“设置”，将其添加进去)可以直接在页面上选中，但有些广告可能会无法标记可以寻求帮助
+> 直接添加自定义规则一般很少用到，因为菜单中的“标记广告”功能(长按菜单中“设置”就能将“标记广告”添加入菜单)可以直接在页面上选中。如遇无法标记的广告可以寻求帮助
 
 <br>
 
@@ -76,7 +76,7 @@ baidu.com##[data-video-play-type="true"]
 
 浏览器标识(简称UA)可以使服务器能够识别客户使用的操作系统及版本、浏览器内核及版本、浏览器渲染引擎、浏览器语言等,让网页作出相应的适应(如识别电脑手机端、添加推送等)
 
-⚠提醒：因部分网站的特殊性，应尽量避免使用除默认以外的全局UA，不然可能出现Google安全认证未通过、Cloudflare人机验证频繁失败、知乎文章乱码等问题
+⚠提醒：因部分网站的特殊性，应尽量避免使用除默认以外的全局UA，不然可能出现Google安全认证未通过、Cloudflare人机验证频繁失败等问题
 
 使用方法：设置＞通用＞浏览器标识，点击右上角的添加符号(默认为“+”)，将需添加到UA粘贴进“浏览器标识”框内即可
 
@@ -112,15 +112,11 @@ baidu.com##[data-video-play-type="true"]
 
 > Mozilla/5.0 (Linux; U; Android 13; zh-cn; 23013RK75C Build/TKQ1.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/17.3.5 swan-mibrowser
 
-6. 8.0.49版本微信的UA
+6. 微信8.0.49版本的UA
 
 > 最好是只给提醒“请用微信APP打开”的网站使用
 
 >Mozilla/5.0 (Linux; Android 14; 22081212C Build/UKQ1.230917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 XWEB/1160175 MMWEBSDK/20240404 MMWEBID/7962 MicroMessenger/8.0.49.2600(0x2800313D) WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64
-
-7. 酷安[ _@靈狐_ 自制的日用UA](https://www.coolapk.com/feed/39514762?shareKey=YTg2MDUwZTRhM2FmNjYwYWRhNTg~&shareUid=20596394)
-
-因为自带介绍，而且大佬可能还在更新，这边就直接提供网址了，进去自行复制，[→戳这←](https://aifoxs.gitee.io/user-agent)
 
 </details>
 
@@ -232,17 +228,17 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 *****
 
-## 📖藏书阁
+## 📖藏书阁(Bookmark Library)
 
 信息时代有无数新兴网站诞生也有无数新兴网站消亡，或许互联网真的不存在记忆，但对于普通用户的我们，仍然需要找寻相关资源
 
-> 导航站：[小众技术导航](https://www.xiaozhongjishu.com/)、[木晞i的资源汇总](https://yftdtddh.github.io/)、[AI工具箱](https://ai-bot.cn/)、[书享家](http://shuxiangjia.cn/)、[人人都懂物联网](https://getiot.tech/)、[学吧导航](https://www.xue8nav.com/)
+> 导航站：[小众技术导航](https://www.xiaozhongjishu.com/)、[木晞i的资源汇总](https://yftdtddh.github.io/)、[AI工具箱](https://ai-bot.cn/)、[书享家](http://shuxiangjia.cn/)、[人人都懂物联网](https://getiot.tech/)、[学吧导航](https://www.xue8nav.com/)、[睿搜资源网](https://www.ruisou121.com/)、[影视](https://ayouth.top/ayouth/video.html)|[动漫](https://ayouth.top/ayouth/animation.html)
 
-> 工具箱：[一个木函](https://ol.woobx.cn/)、[菜鸟工具](https://www.jyshare.com/)、[MikuTools](https://tools.miku.ac/)、[爱资料工具箱](https://www.toolnb.com/)、[视频在线下载器](https://www.online-downloader.com/index-Chinese)(主要支持国外网站)
+> 工具箱：[一个木函](https://ol.woobx.cn/)、[菜鸟工具](https://www.jyshare.com/)、[MikuTools](https://tools.miku.ac/)、[爱资料工具箱](https://www.toolnb.com/)、[爱站小工具](https://gj.aizhan.com/)、[视频在线下载器](https://www.online-downloader.com/index-Chinese)(主要支持国外网站)、[端到端加密的文件传输](https://wormhole.app/)
 
-> 热点：[今日热榜](https://hot.dao.js.cn/)、[全站热榜](https://rebang.today/)、[每日早报晚报](https://tophub.today/daily)
+> 热点：[今日热榜](https://hot.dao.js.cn/)、[全站热榜](https://rebang.today/)、[即时热点](http://tpoto.top/hot/)、[每日早报晚报](https://tophub.today/daily)
 
-> 其他：[免费音乐MyFreeMP3](http://tool.liumingye.cn/music/)、[纪妖](https://www.cbaigui.com/)(古今中外各类妖怪)、Ayouth的[影视](https://ayouth.top/ayouth/video.html)|[动漫](https://ayouth.top/ayouth/animation.html)站点推荐
+> 其他：[免费音乐MyFreeMP3](http://tool.liumingye.cn/music/)、[听蛙纯音乐网](https://www.itingwa.com/)、[纪妖](https://www.cbaigui.com/)(古今中外各类妖怪)、[诗境](https://photo2poem.top/)(根据图片匹配古诗)、[微科普](https://www.wkepu.com/)、[前往随机网站](https://theuselessweb.com/)
 
 *****
 
