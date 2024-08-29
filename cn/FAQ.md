@@ -40,7 +40,7 @@
 
 10.各种同步方式有什么差异？
 
-> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式</small> <br> ①数据方面：导入/备份数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页和离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/备份数据=via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav和云同步？(不开玩笑了，还是希望iOS端早日更新)
+> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式 \n [Via官网教程：通过WebDAV同步你的数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)</small> <br> ①数据方面：导入/备份数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页和离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/备份数据=via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav和云同步？(不开玩笑了，还是希望iOS端早日更新)
 
 11.怎么装脚本？为什么脚本安装失败？
 
@@ -63,7 +63,7 @@
 
 3.嗅探视频下载
 
-> via虽然自带这个功能，但总体体验不太适合懒人，也没有合适的教程，这边推荐用脚本[仿via资源嗅探](https://greasyfork.org/zh-CN/scripts/471390) <br> 使用方法：打开有视频资源的网页，并播放视频；打开脚本菜单，找到此脚本，点击“资源嗅探①”，后续一般就没问题了直接下。目前试的大部分mp4都可以直接下载 <br> m3u8格式的视频就用via自动展示的嗅探按钮，选择第三方下载器来解决吧，毕竟via没有m3u8转mp4功能
+> via虽然自带这个功能，但总体体验不太适合懒人，也没有合适的教程，这边推荐用脚本[仿via资源嗅探](https://greasyfork.org/zh-CN/scripts/471390) <br> 使用方法：打开有视频资源的网页，并播放视频；打开脚本菜单，找到此脚本，点击“资源嗅探①”，后续一般就没问题了直接下。目前试的大部分mp4都可以直接下载 <br> m3u8格式的视频就用via自动展示的嗅探按钮，选择第三方下载器来解决吧，毕竟via没有[m3u8转mp4](https://anyconv.com/tw/m3u8-zhuan-mp4/)功能
 
 4.清理浏览器存储占用过大的via(其他浏览器可能同理)
 
@@ -101,7 +101,7 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 
 2.历代webview存在的问题(以AndroidWebview版号为准)
 
-> 100及以前版本存在link引用的css可能无法正确加载的问题，例如百度百科排版异常 <br> 105前后(具体不明) 搜索记录缓存重复写入BrowserMetrics文件夹导致软件占用异常大的问题，在“💡使用技巧”中的4有提及 <br> 118至今 系统长按菜单的中文缺失问题，例如：Share/Web Search缺失翻译 <br> 126~129 系统字体异常问题，例如字体无故变粗/变细
+> 100及以前版本存在link引用的css可能无法正确加载的问题，例如百度百科排版异常 <br> 105前后(具体不明) 搜索记录缓存重复写入BrowserMetrics文件夹导致软件占用异常大的问题，在“💡使用技巧”中的4有提及 <br> 118至今 系统长按菜单的中文缺失问题，例如：Share/Web Search缺失翻译 <br> 126~128 系统字体异常问题，例如字体无故变粗/变细
 
 3.via的白名单网站
 
@@ -120,8 +120,6 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 4. [via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
 
 5. [via历史版本(官方版，豌豆荚链接)](https://m.wandoujia.com/apps/6609177/history)
-
-6. [(via官方教程)使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)
 
 *****
 
