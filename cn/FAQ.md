@@ -40,7 +40,7 @@
 
 10.各种同步方式有什么差异？
 
-> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式 \n [Via官网教程：通过WebDAV同步你的数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)</small> <br> ①数据方面：导入/备份数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页和离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/备份数据=via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav和云同步？(不开玩笑了，还是希望iOS端早日更新)
+> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式 <br> [Via官网教程：通过WebDAV同步你的数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)</small> <br> ①数据方面：导入/备份数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页和离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/备份数据=via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav和云同步？(不开玩笑了，还是希望iOS端早日更新)
 
 11.怎么装脚本？为什么脚本安装失败？
 
