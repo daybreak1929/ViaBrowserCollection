@@ -27,12 +27,6 @@
 
   <summary> 展开 </summary>
 
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629)(顺便移除了不太好用的“HTTP重定向为HTTPS”)[6.29]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Github搜索净化](https://greasyfork.org/scripts/473912)(我来GitHub是来看开源项目学习的，不是来看反贼的)[6.29]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[网站综合去元素框架](https://greasyfork.org/scripts/498122)[6.29]
-
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[移动端微软Rewards每日任务脚本](https://greasyfork.org/scripts/480355)[6.29]
 
 - [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[Microsoft Bing Rewards每日任务脚本](https://greasyfork.org/scripts/477107)(和上面的脚本功能类似，只不过手机电脑网页有所不同)[6.29]
@@ -56,6 +50,12 @@
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)加回[Youtube双语字幕全平台](https://greasyfork.org/zh-CN/scripts/464879)(效果和上方脚本类似，无需多用，只是看后续适配情况)[8.29]
 
 - [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[追放官方社区移动版电脑宽屏页面适配](https://greasyfork.org/zh-CN/scripts/505037)(仅适合平板等宽屏场景)[8.29]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[双击缩放网页](https://greasyfork.org/zh-CN/scripts/507136)(通过缩放元素大小来实现缩放网页内容，可以有效规避禁止缩放)[9.7]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[妖火网增强脚本Plus](https://greasyfork.org/zh-CN/scripts/504289)[9.7]
+
+- [不可说の篇](https://greasyfork.org/scripts?filter_locale=0&set=590678)添加[漫画织机](https://greasyfork.org/zh-CN/scripts/397848)[9.7]
 
 </details>
 
@@ -236,7 +236,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧视频/图片/链接(17个)✧ </summary>
+  <summary> ✧视频/图片/链接(18个)✧ </summary>
 
 - [俺的手机视频脚本](https://greasyfork.org/scripts/456542)(专门用于视频功能的脚本，和“手机浏览器触摸手势”、“触摸屏视频优化”一起使用时注意手势冲突问题)
 
@@ -246,7 +246,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [在线看图工具Picviewer CE+](https://greasyfork.org/scripts/24204)(点开图片后支持图片翻转、旋转、缩放、弹出大图、批量保存)
 
-- [图片全载-FancyboxV5](https://greasyfork.org/scripts/463305)(主要用于方便看漫画、下载打包图片)
+- [图片全载-FancyboxV5](https://greasyfork.org/scripts/463305) 和[ 漫画织机](https://greasyfork.org/zh-CN/scripts/397848)(主要用于方便看漫画、下载打包图片)
 
 - [ComicRead](https://greasyfork.org/scripts/493257)
 
@@ -276,7 +276,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧作用于单一站点(40个)✧ </summary>
+  <summary> ✧作用于单一站点(41个)✧ </summary>
 
 - [蓝奏云重定向+记住密码](https://greasyfork.org/scripts/488847) 或 [ 蓝奏云自动点击下载](https://greasyfork.org/scripts/489281)(脚本功能开始冲突了，主推前者更适合via)
 
@@ -338,13 +338,17 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [追放官方社区移动版电脑宽屏页面适配](https://greasyfork.org/zh-CN/scripts/505037)(仅适合平板等宽屏场景)
 
+- [妖火网增强脚本Plus](https://greasyfork.org/zh-CN/scripts/504289)
+
 </details>
 
 <details>
 
-  <summary> ✧可能用得上(14个)✧ </summary>
+  <summary> ✧可能用得上(15个)✧ </summary>
 
 - [护眼模式](https://greasyfork.org/scripts/426377) 和 [ 🌙 高级定制网页护眼模式🌙](https://greasyfork.org/scripts/485513)
+
+- [双击缩放网页](https://greasyfork.org/zh-CN/scripts/507136)(通过缩放元素大小来实现缩放网页内容，可以有效规避禁止缩放)
 
 - [HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629)(可以用此尝试避免一些HTTP协议导致的DNS污染，不过可能治标不治本)
 
