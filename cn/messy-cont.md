@@ -170,13 +170,15 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 </details>
 
-<details><summary>AI搜索引擎列表(暂收录12个)</summary>
+<details><summary>AI搜索引擎列表(暂收录14个)</summary>
 
 > 秘塔AI(via在5.7.5版本后内置，可显示大纲视图) <br> https://metaso.cn/?q=
 
 > KFindAI([GitHub开源](https://github.com/KMind-Inc/k-Find)，保留关键词) <br> https://kfind.kmind.com/search?q=
 
 > 360AI(无需登录，保留关键词) <br> https://www.sou.com/?q=
+
+> 大同AI(无需登录，保留关键词，自带翻译功能) <br> https://datong.info/ui/search.html?q=
 
 > iSouAI([GitHub开源](https://github.com/yokingma/search_with_ai)，保留关键词) <br> https://isou.chat/search?q=
 
@@ -191,6 +193,8 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 > MikuAI(微信二维码登录，不保留关键词) <br> https://www.hellomiku.com/search?q=
 
 > AndiAI(无需登录，对话式，不保留关键词) <br> https://andisearch.com/?q=
+
+> Genspark(无需登录，要挂梯，保留关键词) <br> https://www.genspark.ai/search?query=
 
 > PerplexityAI(无需登录，要挂梯，不保留关键词，不能用中文回答) <br> https://www.perplexity.ai/?q=
 
