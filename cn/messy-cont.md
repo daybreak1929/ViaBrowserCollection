@@ -18,7 +18,7 @@
 
 > 白名单规则(4000+规则，唯一一个全部为避免误杀的订阅) <br> https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt
 
-> 轻量广告拦截规则(酷安@大萌主，5000+规则) <br> https://raw.gitmirror.com/damengzhu/banad/main/jiekouAD.txt
+> 轻量广告拦截规则(酷安@大萌主，5000+规则) <br> https://github.moeyy.xyz/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
 > AdGuard Mobile Ads filter(7000+规则) <br> https://filters.adtidy.org/extension/ublock/filters/11.txt)
 
@@ -170,29 +170,31 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 </details>
 
-<details><summary>AI搜索引擎列表(暂收录11个)</summary>
+<details><summary>AI搜索引擎列表(暂收录12个)</summary>
 
-> 天工AI <br> https://www.tiangong.cn/result?q=
+> 秘塔AI(via在5.7.5版本后内置，可显示大纲视图) <br> https://metaso.cn/?q=
 
-> 开搜AI <br> https://kaisouai.com?q=
+> KFindAI([GitHub开源](https://github.com/KMind-Inc/k-Find)，保留关键词) <br> https://kfind.kmind.com/search?q=
 
-> ThinkAnyAI <br> https://thinkany.so/zh/search?source=all&q=
+> 360AI(无需登录，保留关键词) <br> https://www.sou.com/?q=
 
-> MikuAI <br> https://www.hellomiku.com/search?q=
+> iSouAI([GitHub开源](https://github.com/yokingma/search_with_ai)，保留关键词) <br> https://isou.chat/search?q=
 
-> 360AI <br> https://www.sou.com/?q=
+> iAskAI(无需登录，保留关键词，不能中文回答) <br> https://iask.ai/?q=
 
-> 十号AI <br> https://retardphobia.moebh.org/ui/search?mode=1&q=
+> PhindAI(无需登录，保留关键词，不能中文回答) <br> https://phind-ai.com/zh/search?q=
 
-> iSouAI <br> https://isou.chat/search?q=
+> 开搜AI(手机验证码登录，不保留关键词，可显示大纲图表) <br> https://kaisouai.com?q=
 
-> PhindAI <br> https://phind-ai.com/zh/search?q=
+> 天工AI(手机验证码登录，不保留关键词) <br> https://www.tiangong.cn/result?q=
 
-> AndiAI <br> https://andisearch.com/?q=
+> MikuAI(微信二维码登录，不保留关键词) <br> https://www.hellomiku.com/search?q=
 
-> iAskAI <br> https://iask.ai/?q=
+> AndiAI(无需登录，对话式，不保留关键词) <br> https://andisearch.com/?q=
 
-> PerplexityAI(要挂梯) <br> https://www.perplexity.ai/?q=
+> PerplexityAI(无需登录，要挂梯，不保留关键词，不能用中文回答) <br> https://www.perplexity.ai/?q=
+
+> ThinkAnyAI(要登录，登录可能需要挂梯，不保留关键词，能中文回答) <br> https://thinkany.so/zh/search?source=all&q=
 
 </details>
 
@@ -234,11 +236,11 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 > 导航站：[小众技术导航](https://www.xiaozhongjishu.com/)、[木晞i的资源汇总](https://yftdtddh.github.io/)、[AI工具箱](https://ai-bot.cn/)、[书享家](http://shuxiangjia.cn/)、[人人都懂物联网](https://getiot.tech/)、[学吧导航](https://www.xue8nav.com/)、[睿搜资源网](https://www.ruisou121.com/)、[影视](https://ayouth.top/ayouth/video.html)|[动漫](https://ayouth.top/ayouth/animation.html)
 
-> 工具箱：[一个木函](https://ol.woobx.cn/)、[菜鸟工具](https://www.jyshare.com/)、[MikuTools](https://tools.miku.ac/)、[爱资料工具箱](https://www.toolnb.com/)、[爱站小工具](https://gj.aizhan.com/)、[视频在线下载器](https://www.online-downloader.com/index-Chinese)(主要支持国外网站)、[端到端加密的文件传输](https://wormhole.app/)
+> 工具箱：[一个木函](https://ol.woobx.cn/)、[菜鸟工具](https://www.jyshare.com/)、[MikuTools](https://tools.miku.ac/)、[爱资料工具箱](https://www.toolnb.com/)、[爱站小工具](https://gj.aizhan.com/)、[视频在线下载器](https://www.online-downloader.com/index-Chinese)(主要支持国外网站)、[端到端加密的文件传输](https://wormhole.app/)、[下载狗-视频解析](https://www.xiazaitool.com/)、[去水印工具](https://www.sojson.com/qushuiyin/ppx.html)
 
 > 热点：[今日热榜](https://hot.dao.js.cn/)、[全站热榜](https://rebang.today/)、[即时热点](http://tpoto.top/hot/)、[每日早报晚报](https://tophub.today/daily)
 
-> 其他：[免费音乐MyFreeMP3](http://tool.liumingye.cn/music/)、[听蛙纯音乐网](https://www.itingwa.com/)、[纪妖](https://www.cbaigui.com/)(古今中外各类妖怪)、[诗境](https://photo2poem.top/)(根据图片匹配古诗)、[微科普](https://www.wkepu.com/)、[前往随机网站](https://theuselessweb.com/)
+> 其他：[免费音乐MyFreeMP3](http://tool.liumingye.cn/music/)、[听蛙纯音乐网](https://www.itingwa.com/)、[无损生活音乐](https://flac.life/)、[纪妖](https://www.cbaigui.com/)(古今中外各类妖怪)、[诗境](https://photo2poem.top/)(根据图片匹配古诗)、[微科普](https://www.wkepu.com/)、[前往随机网站](https://theuselessweb.com/)、[WebGL流体模拟](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
 *****
 
