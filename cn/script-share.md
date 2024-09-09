@@ -104,7 +104,7 @@
 
 6.未检验的其他脚本站，如果想找可以自己试试
 
-> [用户脚本聚合搜索Userscript](https://www.userscript.zone/)，但好像很久没更新来源了 <br> [开源用户脚本Openuserjs](https://openuserjs.org/)，类似greasyfork但不支持语言分区 <br> [GitHub中搜索脚本](https://github.com/search?q===UserScript==)，可以说基本没有中文 <br> [脚本猫列表ScriptCat](https://scriptcat.org/search)，有少量更新，但与greasyfork站点上有点重叠
+> [用户脚本聚合搜索Userscript](https://www.userscript.zone/)，但好像很久没更新来源了 <br> [开源用户脚本Openuserjs](https://openuserjs.org/)，类似greasyfork但不支持语言分区 <br> [GitHub中搜索脚本](https://github.com/search?q===UserScript==&type=repositories&ref=advsearch&s=updated&o=desc)，可以说基本没有中文 <br> [脚本猫列表ScriptCat](https://scriptcat.org/search)，有少量更新，但与greasyfork站点上有点重叠
 
 </details>
 
@@ -248,7 +248,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [图片全载-FancyboxV5](https://greasyfork.org/scripts/463305) 和[ 漫画织机](https://greasyfork.org/zh-CN/scripts/397848)(主要用于方便看漫画、下载打包图片)
 
-- [ComicRead](https://greasyfork.org/scripts/493257)
+- [ComicRead](https://greasyfork.org/scripts/374903)(主要用于宽屏场景)
 
 - [链接助手](https://greasyfork.org/scripts/464541)(强制新标签页打开链接，让符合条件的链接文本变为超链接)
 
