@@ -27,8 +27,6 @@
 
   <summary> 展开 </summary>
 
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[移动端微软Rewards每日任务脚本](https://greasyfork.org/scripts/480355)[6.29]
-
 - [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[Microsoft Bing Rewards每日任务脚本](https://greasyfork.org/scripts/477107)(和上面的脚本功能类似，只不过手机电脑网页有所不同)[6.29]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)删除两个脚本，一个原作者不维护了忘了删，一个早就合并了只是没注意到[7.8]
@@ -57,6 +55,8 @@
 
 - [不可说の篇](https://greasyfork.org/scripts?filter_locale=0&set=590678)添加[漫画织机](https://greasyfork.org/zh-CN/scripts/397848)[9.7]
 
+- [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)移除“视频网页全屏(改)”(因为via5.9.0自带横竖屏切换了)[9.11]
+
 </details>
 
 *****
@@ -73,9 +73,11 @@
 
 - [通用阅读器](https://greasyfork.org/scripts/377230)、[Circle阅读助手脚本版](https://greasyfork.org/scripts/440132)→长按菜单中的“设置”将“阅读模式”移入 或 点击地址栏左侧图标再点击“打开阅读模式”(5.4.0)
 
-- [滚动条-新](https://greasyfork.org/scripts/465037)→5.6.0自带好用，默认开启，网页右侧就有
+- [滚动条-新](https://greasyfork.org/scripts/465037)→自带，默认在网页右侧(5.6.0)
 
 - [聚合搜索引擎切换导航[手机版][移动端]](https://greasyfork.org/scripts/462130) 、 [ 搜索引擎切换器2(侧栏版)](https://greasyfork.org/scripts/489235) 和 [ all-search全搜](https://greasyfork.org/scripts/397993)→默认开启，设置＞通用＞搜索设置＞搜索工具栏(5.8.0)
+
+- [WebRTC禁用脚本](https://greasyfork.org/scripts/495166)→默认关闭，设置＞隐私＞禁用webRTC(5.9.0)
 
 </details>
 
@@ -242,8 +244,6 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [触摸屏视频优化](https://greasyfork.org/scripts/405897)(类似上一个脚本，侧重不同)
 
-- [视频网页全屏（改）](https://greasyfork.org/scripts/495077)
-
 - [在线看图工具Picviewer CE+](https://greasyfork.org/scripts/24204)(点开图片后支持图片翻转、旋转、缩放、弹出大图、批量保存)
 
 - [图片全载-FancyboxV5](https://greasyfork.org/scripts/463305) 和[ 漫画织机](https://greasyfork.org/zh-CN/scripts/397848)(主要用于方便看漫画、下载打包图片)
@@ -344,7 +344,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧可能用得上(15个)✧ </summary>
+  <summary> ✧可能用得上(14个)✧ </summary>
 
 - [护眼模式](https://greasyfork.org/scripts/426377) 和 [ 🌙 高级定制网页护眼模式🌙](https://greasyfork.org/scripts/485513)
 
@@ -353,8 +353,6 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 - [HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629)(可以用此尝试避免一些HTTP协议导致的DNS污染，不过可能治标不治本)
 
 - [仿via资源嗅探](https://greasyfork.org/scripts/471390)(模仿via自带的资源嗅探，在脚本菜单中显示嗅探到的音频、视频)
-
-- [WebRTC禁用脚本](https://greasyfork.org/scripts/495166)(尝试禁止WebRTC泄露ip)
 
 - [浏览器背景](https://greasyfork.org/scripts/493937)(将浏览器的背景变成某只笨蛋~，可以按注释自行更换图片)
 
