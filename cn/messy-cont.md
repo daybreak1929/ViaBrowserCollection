@@ -116,7 +116,13 @@ baidu.com##[data-video-play-type="true"]
 
 > 最好是只给提醒“请用微信APP打开”的网站使用
 
->Mozilla/5.0 (Linux; Android 14; 22081212C Build/UKQ1.230917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 XWEB/1160175 MMWEBSDK/20240404 MMWEBID/7962 MicroMessenger/8.0.49.2600(0x2800313D) WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64
+> Mozilla/5.0 (Linux; Android 14; 22081212C Build/UKQ1.230917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 XWEB/1160175 MMWEBSDK/20240404 MMWEBID/7962 MicroMessenger/8.0.49.2600(0x2800313D) WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64
+
+7. 夸克UA
+
+> 最好是给神马/夸克系单独设置去除app提示
+
+> Mozilla/5.0 (Linux; U; Android 14; zh-CN; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Quark/7.2.6.641 Mobile Safari/537.36
 
 </details>
 
@@ -240,7 +246,7 @@ via在5.5.0更新后支持自定义多个搜索引擎，特此添加对应部分
 
 > 导航站：[小众技术导航](https://www.xiaozhongjishu.com/)、[木晞i的资源汇总](https://yftdtddh.github.io/)、[AI工具箱](https://ai-bot.cn/)、[书享家](http://shuxiangjia.cn/)、[人人都懂物联网](https://getiot.tech/)、[学吧导航](https://www.xue8nav.com/)、[睿搜资源网](https://www.ruisou121.com/)、[影视](https://ayouth.top/ayouth/video.html)|[动漫](https://ayouth.top/ayouth/animation.html)
 
-> 工具箱：[一个木函](https://ol.woobx.cn/)、[菜鸟工具](https://www.jyshare.com/)、[MikuTools](https://tools.miku.ac/)、[爱资料工具箱](https://www.toolnb.com/)、[爱站小工具](https://gj.aizhan.com/)、[视频在线下载器](https://www.online-downloader.com/index-Chinese)(主要支持国外网站)、[端到端加密的文件传输](https://wormhole.app/)、[下载狗-视频解析](https://www.xiazaitool.com/)、[去水印工具](https://www.sojson.com/qushuiyin/ppx.html)
+> 工具箱：[一个木函](https://ol.woobx.cn/)、[菜鸟工具](https://www.jyshare.com/)、[MikuTools](https://tools.miku.ac/)、[爱资料工具箱](https://www.toolnb.com/)、[爱站小工具](https://gj.aizhan.com/)、[视频在线下载器](https://www.online-downloader.com/index-Chinese)(主要支持国外网站)、[端到端加密的文件传输](https://wormhole.app/)、[文叔叔文件传输](https://www.wenshushu.cn/)、[下载狗-视频解析](https://www.xiazaitool.com/)、[去水印工具](https://www.sojson.com/qushuiyin/ppx.html)
 
 > 热点：[今日热榜](https://hot.dao.js.cn/)、[全站热榜](https://rebang.today/)、[即时热点](http://tpoto.top/hot/)、[每日早报晚报](https://tophub.today/daily)
 
