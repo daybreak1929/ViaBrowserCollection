@@ -16,7 +16,7 @@
 
 > 去除APP下载提醒(1000+规则) <br> https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
 
-> 白名单规则(4000+规则，唯一一个全部为避免误杀的订阅) <br> https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt
+> 白名单规则(4000+规则，唯一一个全部为避免误杀的订阅) <br> https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
 
 > 轻量广告拦截规则(酷安@大萌主，5000+规则) <br> https://github.moeyy.xyz/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
@@ -27,8 +27,6 @@
 > 屏蔽获取Cookie弹窗(近2w规则，可能需开科学) <br> https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
 
 > 混合规则精简版(酷安@夕阳醉歌，2w+规则) <br> https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt
-
-> XXKiller(2w+规则) <br> https://cdn.jsdelivr.net/gh/DoingDog/XXKiller@main/w.txt
 
 </details>
 
