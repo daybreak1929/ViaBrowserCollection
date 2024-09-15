@@ -12,35 +12,33 @@
 
 <details><summary> ✧展开小型规则列表✧ </summary>
 
-> Ad-J(300+规则) <br> https://gcore.jsdelivr.net/gh/jk278/Ad-J/Ad-J.txt
+> Ad-J([GitHub主页](https://github.com/jk278/Ad-J)，400+规则) <br> https://raw.gitmirror.com/jk278/Ad-J/main/Ad-J.txt
 
-> 去除APP下载提醒(1000+规则) <br> https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
+> 去除APP下载提醒([GitHub主页](https://github.com/Noyllopa/NoAppDownload)，1000+规则) <br> https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
 
-> 白名单规则(4000+规则，唯一一个全部为避免误杀的订阅) <br> https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
+> 轻量广告拦截规则([GitHub主页](https://github.com/damengzhu/banad)，酷安@大萌主，5000+规则) <br> https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
-> 轻量广告拦截规则(酷安@大萌主，5000+规则) <br> https://github.moeyy.xyz/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+> AdGuard Mobile(7000+规则，专治手机端的广告) <br> https://filters.adtidy.org/extension/ublock/filters/11.txt)
 
-> AdGuard Mobile Ads filter(7000+规则) <br> https://filters.adtidy.org/extension/ublock/filters/11.txt)
+> adgk手机去广告规则([GitHub主页](https://github.com/banbendalao/ADgk)，9000+规则，需开科学，⚠已较长时间未维护) <br> https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 
-> adgk手机去广告规则(9000+规则，需开科学) <br> https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+> GOODBYEADS([GitHub主页](https://github.com/8680/GOODBYEADS)，1w+规则，包含“去除APP下载提醒”) <br> https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
 
-> 屏蔽获取Cookie弹窗(近2w规则，可能需开科学) <br> https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
-
-> 混合规则精简版(酷安@夕阳醉歌，2w+规则) <br> https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt
+> 屏蔽获取Cookie弹窗(2w+规则，需开科学) <br> https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
 
 </details>
 
 <details><summary> ✧展开大型规则列表✧ </summary>
 
-> AdKiller-Lite(3w+规则，包含“轻量广告拦截规则”和“去除APP下载提醒”) <br> https://raw.gitmirror.com/PhoenixLjw/AdRules/main/filter-lite.txt
+> 混合规则精简版([发布页](https://lingeringsound.github.io/adblock_auto/)，酷安@夕阳醉歌，3w+规则，包含“AdGuard Mobile”) <br> https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt
 
-> AdRules AdBlock List Lite(3w+规则，需开科学) <br> https://adrules.top/adblock_lite.txt
+> AdKiller-Lite([GitHub主页](https://github.com/PhoenixLjw/AdRules)，3w+规则，包含“轻量广告拦截规则”和“去除APP下载提醒”) <br> https://raw.gitmirror.com/PhoenixLjw/AdRules/main/filter-lite.txt
 
-> ABP Merge Rules(5w+规则，包含“轻量广告拦截规则”) <br> https://raw.gitmirror.com/damengzhu/abpmerge/main/abpmerge.txt
+> AdRules AdBlock List Lite([GitHub主页](https://github.com/Cats-Team/AdRules)，3w+规则) <br> https://adrules.top/adblock_lite.txt
 
-> AdFilters(6w+规则) <br> https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt
+> ABP Merge Rules([GitHub主页](https://github.com/damengzhu/abpmerge)，5w+规则，包含“轻量广告拦截规则”) <br> https://raw.gitmirror.com/damengzhu/abpmerge/main/abpmerge.txt
 
-> AdBlock Filter(11w+规则，包含“adgk手机去广告规则”，需开科学) <br> https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
+> AdBlock Filter([GitHub主页](https://github.com/217heidai/adblockfilters)，10w+规则，包含“轻量广告拦截规则”) <br> https://ghp.ci/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
 
 </details>
 
@@ -90,7 +88,7 @@ baidu.com##[data-video-play-type="true"]
 
 2. 简单搜索UA新版 
 
-> 优点：百度有AI、关自动播放、会自动翻页、防拉💩 <br> 缺点：没有搜索框、UI变动大、没有横栏切换、视频仍然会缓存
+> 优点：百度有AI、关自动播放(会缓存)、会自动翻页、防拉💩 <br> 缺点：没有搜索框、UI变动大、没有横栏切换、视频仍然会缓存
 
 > Mozilla/5.0 (Linux; Android 12; PDKM00 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36 T7/13.50 ChatSearch/1.0 SearchCraft/5.10.0.13 (Baidu; P1 12)
 
@@ -106,9 +104,9 @@ baidu.com##[data-video-play-type="true"]
 
 5. 小米浏览器默认UA 
 
-> 最好是给百度系的单独设置，其他网页可能会加广告
+> 最好是给百度系网站单独设置
 
-> Mozilla/5.0 (Linux; U; Android 13; zh-cn; 23013RK75C Build/TKQ1.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/17.3.5 swan-mibrowser
+> Mozilla/5.0 (Linux; U; Android 14; zh-cn; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5414.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/18.5.40902
 
 6. 微信8.0.49版本的UA
 
