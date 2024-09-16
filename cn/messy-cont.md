@@ -8,7 +8,7 @@
 
 ✧部分规则无法更新新请先尝试 开科学/魔法，无果后再尝试反馈作者
 
-主要推荐“[轻量广告拦截规则](https://raw.gitmirror.com/damengzhu/banad/main/jiekouAD.txt)”、"[白名单规则](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt)"、“[混合规则精简版](https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt)”和“[Ad-J](https://gcore.jsdelivr.net/gh/jk278/Ad-J/Ad-J.txt)”，不误杀就是最好的效果
+主要推荐“[轻量广告拦截规则](https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)”、"[GOODBYEADS](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)"、“[混合规则精简版](https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt)”和“[Ad-J](https://raw.gitmirror.com/jk278/Ad-J/main/Ad-J.txt)”，不误杀就是最好的效果
 
 <details><summary> ✧展开小型规则列表✧ </summary>
 
