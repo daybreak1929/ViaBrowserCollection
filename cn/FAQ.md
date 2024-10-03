@@ -81,7 +81,7 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 
 1.Shizuku授权教程
 
-> ⚠华为鸿蒙系统阉割掉了开发者选项中的无线调试功能，只能连接电脑借助adb授权，可参考[adb权限激活(B站视频教程)](https://www.bilibili.com/video/BV1cfVxeiE8T)，工具在视频简介 <br> 无线调试方案可参考[Shizuku授权软件教程](https://mp.weixin.qq.com/s?src=11&timestamp=1721383180&ver=5392&signature=l41Zfb3URRrQ0ynCHjY*7z38IKiaMNlip2J-diMQgD4NYnbFGMpoURAlOemC70VZ-EHy4sIl3K9Iq3am757w1B0MfXeCCseBCsQ-UE15hRyq5n-Bi0xGkGIiifqtO-4H)。原先via内测支持莫奈色的时候就想搞此部分了，结果砍了……还是先留着，毕竟换安装器也用得到
+> ⚠华为鸿蒙系统阉割掉了开发者选项中的无线调试功能，只能连接电脑借助adb授权，可参考[adb权限激活(B站视频教程)](https://www.bilibili.com/video/BV1cfVxeiE8T)，工具在视频简介 <br> 无线调试方案可参考[Shizuku授权软件教程](https://mp.weixin.qq.com/s/V1k1uH6r0cp5DD9P8v46Cw)。原先via内测支持莫奈色的时候就想搞此部分了，结果砍了……还是先留着，毕竟换安装器也用得到
 
 2.规避HyperOS自带安装器的禁止安装(含如何更换系统安装器)
 
