@@ -218,6 +218,8 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 
 > 知乎搜索(登录后才能使用，知乎网页限制) <br> https://www.zhihu.com/search?type=content&q=
 
+> 知乎直达(知乎推出的ai引擎，不保留关键词，只包括知乎内容) <br> https://zhida.zhihu.com/search?type=content&q=
+
 > 抖音 <br> https://www.douyin.com/search/
 
 > Gitee <br> https://so.gitee.com/?q=
@@ -244,7 +246,7 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 
 > 工具箱：[一个木函](https://ol.woobx.cn/)、[菜鸟工具](https://www.jyshare.com/)、[MikuTools](https://tools.miku.ac/)、[爱资料工具箱](https://www.toolnb.com/)、[爱站小工具](https://gj.aizhan.com/)、[视频在线下载器](https://www.online-downloader.com/index-Chinese)(主要支持国外网站)、[端到端加密的文件传输](https://wormhole.app/)、[文叔叔文件传输](https://www.wenshushu.cn/)、[下载狗-视频解析](https://www.xiazaitool.com/)、[去水印工具](https://www.sojson.com/qushuiyin/ppx.html)
 
-> 热点：[今日热榜](https://hot.dao.js.cn/)、[全站热榜](https://rebang.today/)、[即时热点](http://tpoto.top/hot/)、[每日早报晚报](https://tophub.today/daily)
+> 热点：[今日热榜](https://hot.dao.js.cn/)、[全站热榜](https://rebang.today/)、[即时热点](https://nowhots.com)、[每日早报晚报](https://tophub.today/daily)
 
 > 其他：[免费音乐MyFreeMP3](http://tool.liumingye.cn/music/)、[听蛙纯音乐网](https://www.itingwa.com/)、[无损生活音乐](https://flac.life/)、[纪妖](https://www.cbaigui.com/)(古今中外各类妖怪)、[诗境](https://photo2poem.top/)(根据图片匹配古诗)、[微科普](https://www.wkepu.com/)、[前往随机网站](https://theuselessweb.com/)、[WebGL流体模拟](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
