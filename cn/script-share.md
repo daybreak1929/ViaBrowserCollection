@@ -27,12 +27,6 @@
 
   <summary> 展开 </summary>
 
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[去除链接重定向](https://greasyfork.org/scripts/483475)(此脚本主要作用于网页内链接，与[跳转链接修复](https://greasyfork.org/scripts/395970)功能不冲突)[7.17]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)加回[YouTube去广告](https://greasyfork.org/scripts/459541)[7.30]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Twitterᴾˡᵘˢ](https://greasyfork.org/scripts/387969)(移除广告，图片恢复原清晰度)、[Twitter/X移除敏感内容提醒](https://greasyfork.org/scripts/492130)[7.31]
-
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)更换[记录页面滚动](https://greasyfork.org/scripts/499828)(新加入的为脚本的新版本)[8.12]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Youtube双语字幕版](https://greasyfork.org/scripts/504796)(需要在网页上启用字幕才能显示双语)[8.25]
@@ -56,6 +50,10 @@
 - [不可说の篇](https://greasyfork.org/scripts?filter_locale=0&set=590678)添加[南加北加论坛强化脚本(凛+)](https://greasyfork.org/zh-CN/scripts/454120)[10.25]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)移除[全新の维基百科](https://greasyfork.org/scripts/495783)(原因：脚本已被原作者删除)[10.25]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[【移动端】MT论坛优化](https://greasyfork.org/scripts/513866)(此脚本针对移动网页。同时删除同作者的“mt论坛”脚本，原因：不再维护，转为维护新脚本)[10.29]
+
+- [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[MT论坛优化](https://greasyfork.org/scripts/513868)(与上方脚本同作者，两脚本不冲突，此脚本针对电脑网页)[10.29]
 
 </details>
 
@@ -276,7 +274,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧作用于单一站点(42个)✧ </summary>
+  <summary> ✧作用于单一站点(43个)✧ </summary>
 
 - [蓝奏云重定向+记住密码](https://greasyfork.org/scripts/488847) 或 [ 蓝奏云自动点击下载](https://greasyfork.org/scripts/489281)(脚本功能开始冲突了，主推前者更适合via)
 
@@ -308,7 +306,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [Xbox CLoud Gaming 优化整合](https://greasyfork.org/scripts/455741)(云游戏在线玩)
 
-- [MT论坛](https://greasyfork.org/scripts/401359)
+- [【移动端】MT论坛优化](https://greasyfork.org/scripts/513866) 和 [ MT论坛优化](https://greasyfork.org/scripts/513868)(前者针对移动网页后者针对电脑网页，不冲突)
 
 - [移动端微软Rewards每日任务脚本](https://greasyfork.org/scripts/480355) 和 [ Microsoft Bing Rewards每日任务脚本](https://greasyfork.org/scripts/477107)(前者适用移动网页，后者适用电脑网页，相关注意事项可询问脚本作者)
 
