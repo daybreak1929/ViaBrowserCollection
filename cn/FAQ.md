@@ -8,7 +8,7 @@
 
 2.via浏览器触发异常问题？ && 屏幕底部弹出乱码怎么解决？
 
-> [官方问答](https://viayoo.com/zh-cn/docs/via-for-android-faq.html)中也有相应解释，可将相应截图反馈到[[QQ频道 ](https://pd.qq.com/s/142yif2dj)| [TG群组 ](https://t.me/+bMMIgOk0cnA3YjI9)| [反馈社区](https://support.qq.com/embed/phone/438363)] <br> 设置＞关于，点击via的logo滑到最底下查看最新的log报错 <br> 如果滑不到底可以在关于页面的右上角点击分享，用其他软件查看 _log.txt_
+> [官方问答](https://viayoo.com/zh-cn/docs/via-for-android-faq.html)中也有相应解释，可将相应截图反馈到[[QQ频道 ](https://pd.qq.com/s/142yif2dj)| [TG群组 ](https://t.me/+bMMIgOk0cnA3YjI9) <br> 设置＞关于，点击via的logo滑到最底下查看最新的log报错 <br> 如果滑不到底可以在关于页面的右上角点击分享，用其他软件查看 _log.txt_
 
 3.如何查询系统webview版本号？怎么更新系统webview？
 
@@ -97,11 +97,11 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 
 1.套壳浏览器在默认情况下不支持许多Chrome/Chromium原生特性，以下举例重要但via没有实现的部分:
 
-> <small>CRX | 浏览器插件/扩展系统</small> (无法解决，技术不支持) <br> <small>Devtools | 开发者工具</small> (使用脚本[网页调试](https://greasyfork.org/scripts/475228)) <br> <small>ChromeCast | Google投屏协议</small> (听说有计划搞投屏，但可能与这个不同) <br> <small>PIP | 原生画中画</small> (考虑中，可能基于系统小窗制作) <br> <small>PasswordSave | 保存网站密码</small> (不考虑，有此需求详见最顶上的官方问答)
+> <small>CRX | 浏览器插件/扩展系统</small> (无法解决，技术不支持) <br> <small>Devtools | 开发者工具</small> (使用脚本[网页调试](https://greasyfork.org/scripts/475228)) <br> <small>ChromeCast | Google投屏协议</small> (听说有计划搞投屏，但可能与这个不同) <br> <small>PIP | 原生画中画</small> (6.0.0已基于系统画中画权限实现，功能较少) <br> <small>PasswordSave | 保存网站密码</small> (不考虑，有此需求详见最顶上的官方问答)
 
 2.历代webview存在的问题(以AndroidWebview版号为准)
 
-> 100及以前版本存在link引用的css可能无法正确加载的问题，例如百度百科排版异常 <br> 105前后(具体不明) 搜索记录缓存重复写入BrowserMetrics文件夹导致软件占用异常大的问题，在“💡使用技巧”中的4有提及 <br> 118至今 系统长按菜单的中文缺失问题，例如：Share/Web Search缺失翻译 <br> 126~128 系统字体异常问题，例如字体无故变粗/变细
+> 100及以前版本存在link引用的css可能无法正确加载的问题，例如百度百科排版异常 <br> 105前后(具体不明) 搜索记录缓存重复写入BrowserMetrics文件夹导致软件占用异常大的问题，在“💡使用技巧”中的4有提及 <br> 108至今 Client Hints信息中的操作系统暴露为Android，导致部分网站电脑模式怪异，例如必应Bing <br> 118至今 系统长按菜单的中文缺失问题，例如：Share/Web Search缺失翻译 <br> 126~128 系统字体异常问题，例如字体无故变粗/变细
 
 3.via的白名单网站
 
