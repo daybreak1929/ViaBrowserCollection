@@ -72,11 +72,14 @@ baidu.com##[data-video-play-type="true"]
 
 浏览器标识(简称UA)可以使服务器能够识别客户使用的操作系统及版本、浏览器内核及版本、浏览器渲染引擎、浏览器语言等,让网页作出相应的适应(如识别电脑手机端、添加推送等)
 
-⚠提醒：因部分网站的特殊性，应尽量避免使用除默认以外的全局UA，不然可能出现Google安全认证未通过、Cloudflare人机验证频繁失败等问题
+添加方法：设置＞通用＞浏览器标识，点击右上角的添加符号(默认为“+”)，将需添加到UA粘贴进“浏览器标识”框内即可
 
-使用方法：设置＞通用＞浏览器标识，点击右上角的添加符号(默认为“+”)，将需添加到UA粘贴进“浏览器标识”框内即可
 
 ![输入图片说明](img/addUA.png)
+
+具体使用：①全局设定：在上述添加处更换或者长按菜单中“电脑模式”然后更换 <br> ②单独设定：进入网址，点击地址栏左侧图标(默认为小护盾)，点击“网站设定”，启用后更换此页面中的浏览器标识
+
+⚠提醒：因部分网站的特殊性，应尽量避免使用除默认以外的全局UA，不然可能出现无法通过Google安全认证、Cloudflare人机验证频繁失败等问题
 
 <details><summary> ✧展开推荐UA列表✧ </summary>
 
@@ -119,6 +122,12 @@ baidu.com##[data-video-play-type="true"]
 > 最好是给神马/夸克系单独设置去除app提示
 
 > Mozilla/5.0 (Linux; U; Android 14; zh-CN; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Quark/7.2.6.641 Mobile Safari/537.36
+
+8. QQ浏览器15.7版本的UA
+
+> 众所周知，搜狗搜索现在已经是腾讯的形状了，需要调教一下
+
+> Mozilla/5.0 (Linux; U; Android 14; zh-cn; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.107 MQQBrowser/15.7 Mobile Safari/537.36
 
 </details>
 
