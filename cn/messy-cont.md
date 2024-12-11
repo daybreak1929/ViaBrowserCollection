@@ -2,7 +2,7 @@
 
 ## 🚫广告拦截规则(Adblock)
 
-使用方法：将网址单独复制，然后进入via的设置＞通用＞广告拦截＞规则订阅，点击右上角添加符号(默认为“+”)，选择“自定义”，将下列网址粘贴进去
+> 使用方法：将网址单独复制，然后进入via的设置＞通用＞广告拦截＞规则订阅，点击右上角添加符号(默认为“+”)，选择“自定义”，将下列网址粘贴进去
 
 ![输入图片说明](img/adblock.png)
 
@@ -74,7 +74,6 @@ baidu.com##[data-video-play-type="true"]
 
 添加方法：设置＞通用＞浏览器标识，点击右上角的添加符号(默认为“+”)，将需添加到UA粘贴进“浏览器标识”框内即可
 
-
 ![输入图片说明](img/addUA.png)
 
 具体使用：①全局设定：在上述添加处更换或者长按菜单中“电脑模式”然后更换 <br> ②单独设定：进入网址，点击地址栏左侧图标(默认为小护盾)，点击“网站设定”，启用后更换此页面中的浏览器标识
@@ -83,47 +82,43 @@ baidu.com##[data-video-play-type="true"]
 
 <details><summary> ✧展开推荐UA列表✧ </summary>
 
-1. 简单搜索UA旧版整合
+1.简单搜索UA旧版整合
 
 > 优点：百度关自动播放(不缓存)、防拉💩、必应无下载提示 <br> 缺点：没有搜索框、内核可能有点旧
 
 > Mozilla/5.0 (Linux; U; Android 10; zh-CN; 2014811 Build/QQ3A.200805.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/119.0.2564.116 Quark/3.8.2.126 Mobile Safari/537.36 T7/10.3 SearchCraft/2.6.3 (Baidu; P1 8.0.0) edge
 
-2. 简单搜索UA新版 
+2.简单搜索UA新版 
 
 > 优点：百度有AI、关自动播放(会缓存)、会自动翻页、防拉💩 <br> 缺点：没有搜索框、UI变动大、没有横栏切换、视频仍然会缓存
 
 > Mozilla/5.0 (Linux; Android 12; PDKM00 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36 T7/13.50 ChatSearch/1.0 SearchCraft/5.10.0.13 (Baidu; P1 12)
 
-3. Edge移动端浏览器默认UA 
+3.Edge移动端浏览器默认UA 
 
 > 优点：百度关自动播放(不缓存)、有搜索框；必应去除下载提醒 <br> 缺点：不防百度拉💩
 
-> Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 EdgA/126.0.0.0
+> Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36 EdgA/129.0.0.0
 
-4. 火狐/雨见浏览器默认UA `类似Edge的UA`
-
-> Mozilla/5.0 (Android 14; Mobile; rv:120.0) Gecko/120.0 Firefox/120.0
-
-5. 小米浏览器默认UA 
+4.小米浏览器默认UA 
 
 > 最好是给百度系网站单独设置
 
 > Mozilla/5.0 (Linux; U; Android 14; zh-cn; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5414.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/18.5.40902
 
-6. 微信8.0.49版本的UA
+5.微信8.0.49版本的UA
 
 > 最好是只给提醒“请用微信APP打开”的网站使用
 
 > Mozilla/5.0 (Linux; Android 14; 22081212C Build/UKQ1.230917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 XWEB/1160175 MMWEBSDK/20240404 MMWEBID/7962 MicroMessenger/8.0.49.2600(0x2800313D) WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64
 
-7. 夸克UA
+6.夸克UA
 
 > 最好是给神马/夸克系单独设置去除app提示
 
 > Mozilla/5.0 (Linux; U; Android 14; zh-CN; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Quark/7.2.6.641 Mobile Safari/537.36
 
-8. QQ浏览器15.7版本的UA
+7.QQ浏览器UA
 
 > 众所周知，搜狗搜索现在已经是腾讯的形状了，需要调教一下
 
@@ -141,7 +136,7 @@ baidu.com##[data-video-play-type="true"]
 
 via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜索引擎并在搜索设置内
 
-使用方法：设置＞通用＞搜索设置＞搜索引擎，点击右上角的添加符号(默认为“+”)
+> 使用方法：设置＞通用＞搜索设置＞搜索引擎，点击右上角的添加符号(默认为“+”)
 
 ![输入图片说明](img/addEngines.png)
 
