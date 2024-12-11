@@ -20,12 +20,6 @@
 
 ## 💡项目外链
 
-⚠请使用“[去除链接重定向](https://greasyfork.org/scripts/483475)”脚本跳过Gitee自带的拦截，即下图这个情况
-
-![输入图片说明](cn/img/giteeRedirect.png)
-
-*****
-
 via官方的[QQ频道 ](https://pd.qq.com/s/142yif2dj)| [TG群组](https://t.me/+bMMIgOk0cnA3YjI9)
 
 via官网的[Android版via常见问题文档](https://viayoo.com/zh-cn/docs/via-for-android-faq.html)|[使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)|[Scheme介绍文档](https://viayoo.com/zh-cn/docs/about-the-uri-scheme-of-via-for-android.html)
