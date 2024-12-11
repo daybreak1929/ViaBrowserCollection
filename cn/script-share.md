@@ -1,7 +1,13 @@
 # via浏览器可用油猴脚本分享
 
 ## 💡收藏夹地址
-⚠via有关油猴脚本的几个重要版本，4.4.2支持，5.6.0兼容性大加强，建议先将via更新为最新版本后食用收藏夹
+⚠via有关油猴脚本的几个重要版本，4.4.2支持，5.5.0~5.8.0均有加强兼容性，建议先将via更新为最新版本后食用收藏夹
+
+> 使用方法：用via浏览器打开此网页，然后进入收藏夹，选择脚本，进入，点击“安装此脚本”，弹出确认安装的窗口后点击确认即安装完毕
+
+* via浏览器自带脚本管理器，无需添加其他脚本管理器，如遇下图提示，请点击框内部分
+
+![点击框内部分!](img/isee.png)
 
 [→GreasyFork收藏夹(主体推荐篇)地址←](https://greasyfork.org/scripts?filter_locale=0&set=586537)(介绍：都是移动端网页完美使用的，部分还支持电脑网页，主推)
 
@@ -11,13 +17,7 @@
 
 * **************
 
-> 使用方法：用via浏览器打开此网页，然后进入收藏夹，选择脚本，进入，点击“安装此脚本”，弹出确认安装的窗口后点击确认即安装完毕
-
-* via浏览器自带脚本管理器，无需添加其他脚本管理器，如遇下图提示，请点击框内部分
-
-![点击框内部分!](img/isee.png)
-
-> ✧注意：本系列收藏夹不包含也不打算包含 网盘/视频解析类脚本，不稳定是其一，还请注意冲浪安全 <br> GreasyFork站点并非只有收藏夹内的脚本可以使用，只是列举本人留意或他人推荐的脚本 <br> 去广告功能能用规则订阅就尽量使用规则订阅，效果更好些，可参考[关于via奇奇怪怪的推荐](messy-cont.md)
+> ✧注意：本系列收藏夹不包含也不打算包含 网盘/视频解析类脚本，不稳定是其一，还请注意冲浪安全 <br> GreasyFork站点并非只有收藏夹内的脚本可以使用，只是列举本人留意或他人推荐的脚本 <br> 去广告功能能用规则订阅就尽量使用规则订阅，加载更快些，可参考[关于via奇奇怪怪的推荐](messy-cont.md)
 
 *****
 
@@ -26,12 +26,6 @@
 <details>
 
   <summary> 展开 </summary>
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)更换[记录页面滚动](https://greasyfork.org/scripts/499828)(新加入的为脚本的新版本)[8.12]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Youtube双语字幕版](https://greasyfork.org/scripts/504796)(需要在网页上启用字幕才能显示双语)[8.25]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)加回[Youtube双语字幕全平台](https://greasyfork.org/scripts/464879)(效果和上方脚本类似，无需多用，只是看后续适配情况)[8.29]
 
 - [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[追放官方社区移动版电脑宽屏页面适配](https://greasyfork.org/scripts/505037)(仅适合平板等宽屏场景)[8.29]
 
@@ -54,6 +48,12 @@
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[【移动端】MT论坛优化](https://greasyfork.org/scripts/513866)(此脚本针对移动网页。同时删除同作者的“mt论坛”脚本，原因：不再维护，转为维护新脚本)[10.29]
 
 - [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[MT论坛优化](https://greasyfork.org/scripts/513868)(与上方脚本同作者，两脚本不冲突，此脚本针对电脑网页)[10.29]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[智能新标签页打开](https://greasyfork.org/scripts/518319)(大多数链接新标签打开、导航栏内当前页面打开)[12.10]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Steam、Epic历史价格查询](https://greasyfork.org/scripts/471532)[12.10]
+
+- [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[优雅的搜索引擎助手](https://greasyfork.org/scripts/12909)(没特地适配移动网页，但必应和谷歌都是可以正常用的，可用于拦截一些关键词或站点)[12.10]
 
 </details>
 
@@ -128,9 +128,9 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 4. 为什么via无法使用的脚本较多？
 
-内置脚本管理器有利有弊，利在简易好处理、与浏览器完美适配，弊在受浏览器限制(如下图的一、二)
+内置脚本管理器有利有弊，利在简易好处理、与浏览器完美适配，弊在受浏览器限制
 
-![via的脚本兼容性问题](img/viaScriptLimit.png)
+> <small>Via浏览器不支持iframe注入,相对应的功能会缺失(跨域JS无法处理) <br> Via浏览器无法绕过CSP策略(处理了简易的,严格的绕不过)</small>
 
 *****
 
@@ -188,7 +188,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧网页浏览强化类(27个)✧ </summary>
+  <summary> ✧网页浏览强化类(28个)✧ </summary>
 
 - [去除链接重定向](https://greasyfork.org/scripts/483475)(将网页内部的链接进行精简，方便快速进入)
 
@@ -216,6 +216,8 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [【移动端】百度系优化](https://greasyfork.org/scripts/418349)(对百度系列的所有网站进行处理，功能丰富，可在脚本菜单自定义)
 
+- [优雅的搜索引擎助手](https://greasyfork.org/scripts/12909)(主要用于电脑网页，手机网页上必应谷歌可用，主要可用于拦截关键词或站点)
+
 - [边缘下滑刷新•改](https://greasyfork.org/scripts/482126)
 
 - [记录页面滚动](https://greasyfork.org/scripts/499828)(记录该网站上一次的位置，网页加载完毕后自动回到原位置，可惜不支持单独站点开关)
@@ -236,7 +238,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧视频/图片/链接(19个)✧ </summary>
+  <summary> ✧视频/图片/链接(20个)✧ </summary>
 
 - [俺的手机视频脚本](https://greasyfork.org/scripts/456542)(专门用于视频功能的脚本，和“手机浏览器触摸手势”、“触摸屏视频优化”一起使用时注意手势冲突问题)
 
@@ -262,7 +264,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [地址精简](https://greasyfork.org/scripts/429294)(去除适配站点链接中的冗余部分，缩短链接)
 
-- [新标签页打开链接](https://greasyfork.org/scripts/429714) 或[ 在当前标签页中打开链接](https://greasyfork.org/scripts/461352)(前一个强制让链接以新标签形式打开，后一个强制让链接在当前标签打开链接，不能合用)
+- [新标签页打开链接](https://greasyfork.org/scripts/429714) [ 智能新标签页打开](https://greasyfork.org/scripts/518319) 或[ 在当前标签页中打开链接](https://greasyfork.org/scripts/461352)(第一个强制让链接以新标签形式打开；第二个大多数链接新标签打开、导航栏内当前页面打开；第三个强制让链接在当前标签打开链接。尽量别合用)
 
 - [图片样式屏蔽器](https://greasyfork.org/scripts/487681)(默认无效果，需在脚本菜单中启用，相比“无图模式”，脚本多屏蔽了图片的样式)
 
@@ -274,7 +276,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧作用于单一站点(43个)✧ </summary>
+  <summary> ✧作用于单一站点(44个)✧ </summary>
 
 - [蓝奏云重定向+记住密码](https://greasyfork.org/scripts/488847) 或 [ 蓝奏云自动点击下载](https://greasyfork.org/scripts/489281)(脚本功能开始冲突了，主推前者更适合via)
 
@@ -337,6 +339,8 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 - [追放官方社区移动版电脑宽屏页面适配](https://greasyfork.org/scripts/505037)(仅适合平板等宽屏场景)
 
 - [妖火网增强脚本Plus](https://greasyfork.org/scripts/504289)
+
+- [Steam、Epic历史价格查询](https://greasyfork.org/scripts/471532)
 
 - [为Gitee页面生成菜单](https://greasyfork.org/scripts/513028)
 
