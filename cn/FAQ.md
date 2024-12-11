@@ -16,7 +16,7 @@
 
 4.网页版式出现错误？
 
-> <small>长按菜单中的“网站设定”(如没有此按钮，就长按菜单中“设置”添加，返回菜单后再长按“网站设定”)，将JavaScript设为允许，查看网页是否正常</small> <br> ①如此前有允许JavaScript，则再尝试关闭脚本、关闭广告拦截、关闭电脑模式、字体大小设为100%、浏览器标识换为默认，查看网页是否正常， <br> ②如正常，再细化排查即可；如不正常，可再尝试关闭模块、更新webview(上面有提到)，如果仍然不能解决，可以按照“2.via浏览器触发异常问题？”提供的渠道去反馈，并说明上述流程已经尝试过
+> <small>长按菜单中的“网站设定”(如没有此按钮，就长按菜单中“设置”添加，返回菜单后再长按“网站设定”)，将JavaScript设为允许，查看网页是否正常</small> <br> ①如此前有允许JavaScript，则再尝试关闭脚本、关闭广告拦截、关闭返回不重载、关闭电脑模式、字体大小设为100%、浏览器标识换为默认，查看网页是否正常， <br> ②如正常，再细化排查即可；如不正常，可再尝试关闭模块、更新webview(上面有提到)，如果仍然不能解决，可以按照“2.via浏览器触发异常问题？”提供的渠道去反馈，并说明上述流程已经尝试过
 
 5.via刷新不出网页？无法使用？
 
@@ -28,7 +28,7 @@
 
 7.总是提示有不安全弹窗，能否关闭？
 
-> 触发情况类似下图 <br> ![输入图片说明](img/SSLwarn.png) <br> 设置＞高级＞忽略SSL证书警告，该功能主要是用于提醒站点证书是否有效 <br> 忽略后仍然可以在地址栏左侧图标中查看(如下图) <br> ![输入图片说明](img/SSL.png)
+> 触发情况类似下图 <br> ![输入图片说明](img/SSLwarn.png) <br> 设置＞高级＞忽略SSL证书警告，该功能主要是用于提醒站点证书是否有效，出现的情况不多，一是网站缺少证书，如有可能应向网站方反馈；二是系统版本过低，一些新证书并未内置到系统中，无法识别新证书 <br> 忽略后仍然可以在地址栏左侧图标中查看(如下图) <br> ![输入图片说明](img/SSL.png)
 
 8.via浏览器的隐私保护如何？
 
@@ -40,7 +40,7 @@
 
 10.各种同步方式有什么差异？
 
-> <small>前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式 <br> [Via官网教程：通过WebDAV同步你的数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)</small> <br> ①数据方面：导入/备份数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页和离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/备份数据＞via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav和云同步？(不开玩笑了，还是希望iOS端早日更新)
+> <small> 前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式 </small> <br> ①使用差异：导入/导出数据在设置＞通用，下滑到底部才能看见，基于本地文件；云同步在设置＞通用＞同步中，基于via官方的云服务；webDAV同步也在同步中，但需要在右上角点击“WEBDAV”才能切换为webDAV同步，基于提供webDAV同步功能的网站服务，如根据[官方教程](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)来就是坚果云的webDAV服务 <br> ②数据方面：导入/导出数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页和离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则 <br> ②跨浏览器备份：webdav同步＞导入/导出数据＞via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/) <br> ③跨设备备份：肿么？你via的iOS端是支持webdav和云同步？(不开玩笑了，还是希望iOS端早日更新)
 
 11.怎么装脚本？为什么脚本安装失败？
 
@@ -85,11 +85,11 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 
 2.规避HyperOS自带安装器的禁止安装(含如何更换系统安装器)
 
-> 触发情况类似下图 <br> ![输入图片说明](img/sbmi.png) <br> 解决方案： <br> ①无额外授权、无root权限：下载[国际版via](https://viayoo.com/en/)，小米暂未屏蔽此版本的via。缺点是后续可能被补上 <br> ②无root权限：用Shizuku授权第三方安装器(个人使用的是InstallerX)，在软件设置中锁定为默认安装器，替换掉系统自带安装器，来为第三方安装器提供权限 <br> ③有root权限：HyperOS系统的手机使用HyperCeiler模块，找到“应用包管理组件”，将相应限制禁用。另提一嘴，HyperOS遇到的限制问题一般都可以通过这个解决
+> 触发情况类似下图 <br> ![输入图片说明](img/sbmi.png) <br> 事先声明：此为小米系统的限制，via作者已反馈但无回应，所以还请遇到的用户能向小米社区方反馈 <br> 解决方案： <br> ①无额外授权、无root权限：下载[国际版via](https://viayoo.com/en/)，小米暂未屏蔽此版本的via。缺点是后续可能被补上 <br> ②无root权限：用Shizuku授权第三方安装器(个人使用的是InstallerX)，在软件设置中锁定为默认安装器，替换掉系统自带安装器，来为第三方安装器提供权限 <br> ③有root权限：HyperOS系统的手机使用HyperCeiler模块，找到“应用包管理组件”，将相应限制禁用。另提一嘴，HyperOS遇到的限制问题一般都可以通过这个解决
 
 3.访问via浏览器本地文件夹
 
-> ①国内版：/sdcard/Android/data/mark.via/ <br> ②国际版：/sdcard/Android/data/mark.via.gp/ <br> (差异自行去看官方问答) 将上述对应来源的本地文件地址复制，粘贴到MT管理器地址栏上，如果提示无法访问文件夹，使用Shizuku为MT管理器授权即可 <br> ![输入图片说明](img/mt.png) <br> 本地可查看的文件 <br> ![输入图片说明](img/viafile.png)
+> ①国内版：/sdcard/Android/data/mark.via/ <br> ②国际版：/sdcard/Android/data/mark.via.gp/ <br> (差异自行查看[官方问答](https://viayoo.com/zh-cn/docs/via-for-android-faq.html#orgc5c99e0)) 将上述对应来源的本地文件地址复制，粘贴到MT管理器地址栏上，如果提示无法访问文件夹，使用Shizuku为MT管理器授权即可 <br> ![输入图片说明](img/mt.png) <br> 本地可查看的文件 <br> ![输入图片说明](img/viafile.png)
 
 *****
 
@@ -97,7 +97,7 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 
 1.套壳浏览器在默认情况下不支持许多Chrome/Chromium原生特性，以下举例重要但via没有实现的部分:
 
-> <small>CRX | 浏览器插件/扩展系统</small> (无法解决，技术不支持) <br> <small>Devtools | 开发者工具</small> (使用脚本[网页调试](https://greasyfork.org/scripts/475228)) <br> <small>ChromeCast | Google投屏协议</small> (听说有计划搞投屏，但可能与这个不同) <br> <small>PIP | 原生画中画</small> (6.0.0已基于系统画中画权限实现，功能较少) <br> <small>PasswordSave | 保存网站密码</small> (不考虑，有此需求详见最顶上的官方问答)
+> <small>CRX | 浏览器插件/扩展系统</small> (无法解决，技术不支持) <br> <small>Devtools | 开发者工具</small> (使用脚本[网页调试](https://greasyfork.org/scripts/475228)) <br> <small>ChromeCast | Google投屏协议</small> (听说有计划搞投屏，但可能与这个不同) <br> <small>PIP | 原生画中画</small> (6.0.0已基于系统画中画权限实现，功能较少) <br> <small>PasswordSave | 保存网站密码</small> (不考虑，详见[官方问答](https://viayoo.com/zh-cn/docs/via-for-android-faq.html#org0e103bd))
 
 2.历代webview存在的问题(以AndroidWebview版号为准)
 
