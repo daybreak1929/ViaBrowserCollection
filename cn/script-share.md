@@ -27,12 +27,6 @@
 
   <summary> 展开 </summary>
 
-- [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[追放官方社区移动版电脑宽屏页面适配](https://greasyfork.org/scripts/505037)(仅适合平板等宽屏场景)[8.29]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[双击缩放网页](https://greasyfork.org/scripts/507136)(通过缩放元素大小来实现缩放网页内容，可以有效规避禁止缩放)[9.7]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[妖火网增强脚本Plus](https://greasyfork.org/scripts/504289)[9.7]
-
 - [不可说の篇](https://greasyfork.org/scripts?filter_locale=0&set=590678)添加[漫画织机](https://greasyfork.org/scripts/397848)[9.7]
 
 - [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)移除“视频网页全屏(改)”(因为via5.9.0自带横竖屏切换了)[9.11]
@@ -54,6 +48,12 @@
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[Steam、Epic历史价格查询](https://greasyfork.org/scripts/471532)[12.10]
 
 - [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)添加[优雅的搜索引擎助手](https://greasyfork.org/scripts/12909)(没特地适配移动网页，但必应和谷歌都是可以正常用的，可用于拦截一些关键词或站点)[12.10]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[禁止网页双击放大](https://greasyfork.org/scripts/466682)[12.31]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[网页加载分析](https://greasyfork.org/scripts/522056)(测试网页加载速度并显示加载最慢的三个网址的域名)[12.31]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[移除广告内嵌脚本](https://greasyfork.org/scripts/521454)(会移除网页内嵌的广告脚本，但网络请求类的还是用[广告拦截](messy-cont.md)才行)[12.31]
 
 </details>
 
@@ -87,7 +87,7 @@
 
 一些脚本不在收藏夹内，需要在此页面查看，如：
 
-1.[可以把本地字体生成脚本的软件](https://lanzoup.com/i7DE10yex0qd)，密码：dmpap
+1.[谷歌字体下载修复](https://www.lanzoui.com/tp/iaT7N2fe4vuh)，可在[来源帖](https://www.coolapk.com/feed/60701316?shareKey=Y2VhYzEwYzkxYzdlNjc2ZjlhMDQ~)看一下注意事项
 
 2.[沉浸式翻译最新版](https://download.immersivetranslate.com/immersive-translate.user.js)(进入自动弹出安装窗口) 
 
@@ -114,9 +114,8 @@
 
 via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
-* ①点击地址栏左侧图标(默认图标是护盾)，然后点击“脚本”
-
-* ②长按菜单中的“设置”，然后将“脚本”移入菜单，后续便可在菜单中直接使用
+> ①点击地址栏左侧图标(默认图标是护盾)，然后点击“脚本”  
+> ②长按菜单中的“设置”，然后将“脚本”移入菜单，后续便可在菜单中直接使用
 
 * **************
 
@@ -130,7 +129,8 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 内置脚本管理器有利有弊，利在简易好处理、与浏览器完美适配，弊在受浏览器限制
 
-> <small>Via浏览器不支持iframe注入,相对应的功能会缺失(跨域JS无法处理) <br> Via浏览器无法绕过CSP策略(处理了简易的,严格的绕不过)</small>
+> <small>Via浏览器不支持iframe注入,相对应的功能会缺失(跨域JS无法处理)  
+> Via浏览器无法绕过CSP策略(处理了简易的,严格的绕不过)</small>
 
 *****
 
@@ -188,7 +188,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧网页浏览强化类(28个)✧ </summary>
+  <summary> ✧网页浏览强化类(29个)✧ </summary>
 
 - [去除链接重定向](https://greasyfork.org/scripts/483475)(将网页内部的链接进行精简，方便快速进入)
 
@@ -206,7 +206,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [自动展开](https://greasyfork.org/scripts/438656) 和[ 自动展开全文阅读更多](https://greasyfork.org/scripts/440400)(两个脚本都是将不完整的文章或网页完全展开，第二个目前适配网站更多)
 
-- [骚扰拦截](https://greasyfork.org/scripts/440871)(去除对应站点的“登录”、“使用APP打开”和悬浮弹窗)
+- [骚扰拦截](https://greasyfork.org/scripts/440871) 和 [移除广告内嵌脚本](https://greasyfork.org/scripts/521454)(前者去除对应站点的页内元素比如“登录”、“使用APP打开”和悬浮弹窗；后者用来移除网页内嵌的广告脚本，可参考[作者帖](https://www.coolapk.com/feed/61641615?shareKey=MDAwNDI2ZjdjYjUwNjc3M2ZlYzk~))
 
 - [防止未经授权的自动复制](https://greasyfork.org/scripts/461625)(尽可能拦截某些站点频繁写入剪贴板的行为)
 
@@ -348,17 +348,21 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧可能用得上(14个)✧ </summary>
+  <summary> ✧可能用得上(16个)✧ </summary>
 
 - [护眼模式](https://greasyfork.org/scripts/426377) 和 [ 🌙 高级定制网页护眼模式🌙](https://greasyfork.org/scripts/485513)
 
-- [双击缩放网页](https://greasyfork.org/scripts/507136)(通过缩放元素大小来实现缩放网页内容，可以有效规避禁止缩放)
+- [双指缩放网页](https://greasyfork.org/scripts/507136)(通过缩放元素大小来实现缩放网页内容，可以有效规避禁止缩放)
 
 - [HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629)(可以用此尝试避免一些HTTP协议导致的DNS污染，不过可能治标不治本)
 
 - [仿via资源嗅探](https://greasyfork.org/scripts/471390)(模仿via自带的资源嗅探，在脚本菜单中显示嗅探到的音频、视频)
 
+- [禁止网页双击放大](https://greasyfork.org/scripts/466682)
+
 - [浏览器背景](https://greasyfork.org/scripts/493937)(将浏览器的背景变成某只笨蛋~，可以按注释自行更换图片)
+
+- [网页加载分析](https://greasyfork.org/scripts/522056)(测试网页加载速度并显示加载最慢的三个域名)
 
 - [Userscript+--](https://greasyfork.org/scripts/409727)(在脚本菜单中显示当前站点的可能适用的脚本数，点击可以跳转到GreasyFork里搜索)
 
