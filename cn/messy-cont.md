@@ -20,6 +20,8 @@
 
 > AdGuard Mobile(7000+规则，专治手机端的广告) <br> https://filters.adtidy.org/extension/ublock/filters/11.txt)
 
+> 去广告Adblock规则(酷安@夕阳醉歌，7000+规则) <br> https://raw.gitmirror.com/lingeringsound/adblock_auto/main/base/%E5%85%B6%E4%BB%96.prop
+
 > adgk手机去广告规则([GitHub主页](https://github.com/banbendalao/ADgk)，9000+规则，需开科学，⚠已较长时间未维护) <br> https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 
 > GOODBYEADS([GitHub主页](https://github.com/8680/GOODBYEADS)，1w+规则，包含“去除APP下载提醒”) <br> https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
@@ -30,7 +32,7 @@
 
 <details><summary> ✧展开大型规则列表✧ </summary>
 
-> 混合规则精简版([发布页](https://lingeringsound.github.io/adblock_auto/)，酷安@夕阳醉歌，3w+规则，包含“AdGuard Mobile”) <br> https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt
+> 混合规则精简版([发布页](https://lingeringsound.github.io/adblock_auto/)，酷安@夕阳醉歌，3w+规则，包含“AdGuard Mobile”、“去广告Adblock规则”) <br> https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt
 
 > AdKiller-Lite([GitHub主页](https://github.com/PhoenixLjw/AdRules)，3w+规则，包含“轻量广告拦截规则”和“去除APP下载提醒”) <br> https://raw.gitmirror.com/PhoenixLjw/AdRules/main/filter-lite.txt
 
@@ -176,13 +178,11 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 
 </details>
 
-<details><summary>AI搜索引擎列表(暂收录14个)</summary>
+<details><summary>AI搜索引擎列表(暂收录15个)</summary>
 
 > 秘塔AI(via在5.7.5版本后内置，可显示大纲视图) <br> https://metaso.cn/?q=
 
 > KFindAI([GitHub开源](https://github.com/KMind-Inc/k-Find)，保留关键词) <br> https://kfind.kmind.com/search?q=
-
-> 360AI(无需登录，保留关键词) <br> https://www.sou.com/?q=
 
 > 大同AI(无需登录，保留关键词，自带翻译功能) <br> https://datong.info/ui/search.html?q=
 
@@ -191,6 +191,8 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 > iAskAI(无需登录，保留关键词，不能中文回答) <br> https://iask.ai/?q=
 
 > PhindAI(无需登录，保留关键词，不能中文回答) <br> https://phind-ai.com/zh/search?q=
+
+> 纳米搜索(原360AI，无需登录，不保留关键词，可显示大纲图表) <br> https://www.n.cn/?q=
 
 > 开搜AI(手机验证码登录，不保留关键词，可显示大纲图表) <br> https://kaisouai.com?q=
 
@@ -201,6 +203,8 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 > AndiAI(无需登录，对话式，不保留关键词) <br> https://andisearch.com/?q=
 
 > Genspark(无需登录，要挂梯，保留关键词) <br> https://www.genspark.ai/search?query=
+
+> ChatGPT(无需登录，对话式，要挂梯，不保留关键词) <br> https://chatgpt.com/?q=
 
 > PerplexityAI(无需登录，要挂梯，不保留关键词，不能用中文回答) <br> https://www.perplexity.ai/?q=
 
@@ -245,6 +249,8 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 ## 📖藏书阁(Bookmark Library)
 
 信息时代有无数新兴网站诞生也有无数新兴网站消亡，或许互联网真的不存在记忆，但对于普通用户的我们，仍然需要找寻相关资源
+
+> 如果链接无法直接进入，尝试连上科学/魔法后再试，如果仍然不行，再尝试反馈给我
 
 > 导航站：[小众技术导航](https://www.xiaozhongjishu.com/)、[木晞i的资源汇总](https://yftdtddh.github.io/)、[AI工具箱](https://ai-bot.cn/)、[书享家](http://shuxiangjia.cn/)、[人人都懂物联网](https://getiot.tech/)、[学吧导航](https://www.xue8nav.com/)、[睿搜资源网](https://www.ruisou121.com/)、[影视](https://ayouth.top/ayouth/video.html)|[动漫](https://ayouth.top/ayouth/animation.html)
 
