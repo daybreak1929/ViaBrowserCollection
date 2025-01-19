@@ -32,7 +32,7 @@ via官网的[Android版via常见问题文档](https://viayoo.com/zh-cn/docs/via-
 
 AndroidWebview下载：[谷歌商店](https://play.google.com/store/apps/details?id=com.google.android.webview) |[ 国内下载站](https://m.downkuai.com/android/167450.html)(确保[谷歌服务框架](http://m.3673.com/down/7083.html)和[谷歌商店](http://m.3673.com/down/17484.html)能正常运行或登录)
 
-[15版本的HuaweiWebview(123盘)](https://www.123pan.com/s/DpRrVv-SOcK3.html)(相当于AndroidWebview114版本，已知会导致夜间模式失效，介意者勿用。14版本相当于Androidwebview99)
+[15版本的HuaweiWebview(123盘)](https://www.123pan.com/s/OuOKVv-Q2I63.html)(相当于AndroidWebview114版本)
 
 *****
 
