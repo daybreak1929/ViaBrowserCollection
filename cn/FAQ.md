@@ -18,7 +18,7 @@
 > ❶查询版本:①设置＞关于，点击via的logo，第十行的“WebView Version”后面就是版本号  
 > ②设置＞关于，如果不是华为鸿蒙系统，长按via的logo就可以打开webview的开发者工具，如下图所示就是webview版本号  
 > ![输入图片说明](img/webviewVersion.png)  
-> (⚠注意：华为鸿蒙系统的最新的[15版本HUAWEI webview](https://www.123pan.com/s/DpRrVv-SOcK3.html)可类似Android webview的114版本)  
+> (⚠注意：华为鸿蒙系统的最新的[15版本HUAWEI webview](https://www.123pan.com/s/OuOKVv-Q2I63.html)可类似Android webview的114版本)  
 > ❷更新版本:①最稳妥的方法 就是到谷歌商店里，进入[系统webview](https://play.google.com/store/apps/details?id=com.google.android.webview)链接，点击菜单中“其他应用打开”或者长按菜单中“分享”，然后选择[GooglePlay](http://m.3673.com/down/17484.html)即可开始下载安装  
 > 如果因为某些原因实在进不了GooglePlay，可选择[国内下载站](https://m.downkuai.com/android/167450.html)，然后安装，如遇安装失败，可参考下方玩机技巧更换系统安装器
 
@@ -138,7 +138,7 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 > 解决方案：  
 > ①无额外授权、无root权限：下载[国际版via](https://viayoo.com/en/)，小米暂未屏蔽此版本的via。缺点是后续可能被补上  
 > ②无root权限：用Shizuku授权第三方安装器(个人使用的是InstallerX)，在软件设置中锁定为默认安装器，替换掉系统自带安装器，来为第三方安装器提供权限  
-> ③有root权限：HyperOS系统的手机使用HyperCeiler模块，找到“应用包管理组件”，将相应限制禁用。另提一嘴，HyperOS遇到的限制问题一般都可以通过这个解决
+> ③有root权限：HyperOS系统的手机使用HyperCeiler模块，禁用频繁安装应用检查。另提一嘴，HyperOS遇到的限制问题一般都可以通过这个解决
 
 #### 3.访问via浏览器本地文件夹
 
@@ -167,8 +167,9 @@ MT管理器[[官网](https://mt2.cn/download/)]、Shizuku[[GitHub](https://githu
 > 100及以前版本存在link引用的css可能无法正确加载的问题，例如百度百科排版异常  
 > 105前后(具体不明) 搜索记录缓存重复写入BrowserMetrics文件夹导致软件占用异常大的问题，在“💡使用技巧”中的4有提及  
 > 108至今 Client Hints信息中的操作系统暴露为Android，导致部分网站电脑模式怪异，例如必应Bing  
-> 118至今 系统长按菜单的中文缺失问题，例如：Share/Web Search缺失翻译  
-> 126~128 系统字体异常问题，例如字体无故变粗/变细
+> 118\~132 系统长按菜单的中文缺失问题，例如：Share/Web Search缺失翻译  
+> 126\~128 系统字体异常问题，例如字体无故变粗/变细  
+> (有via自身因素)132至今 默认启用ro.hwui.use_valkan，主页模糊失效，暂未找到关闭方法
 
 #### 3.via的白名单网站
 
