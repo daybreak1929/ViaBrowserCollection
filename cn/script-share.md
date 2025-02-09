@@ -3,7 +3,7 @@
 ## 💡收藏夹地址
 ⚠via有关油猴脚本的几个重要版本，4.4.2支持，5.5.0~5.8.0均有加强兼容性，建议先将via更新为最新版本后食用收藏夹
 
-> 使用方法：用via浏览器打开此网页，然后进入收藏夹，选择脚本，进入，点击“安装此脚本”，弹出确认安装的窗口后点击确认即安装完毕
+> 使用方法：用via浏览器打开此网页，然后进入收藏夹(如无法进入请尝试使用科学/魔法)，选择脚本，进入，点击“安装此脚本”，弹出确认安装的窗口后点击确认即安装完毕
 
 * via浏览器自带脚本管理器，无需添加其他脚本管理器，如遇下图提示，请点击框内部分
 
@@ -27,12 +27,6 @@
 
   <summary> 展开 </summary>
 
-- [不可说の篇](https://greasyfork.org/scripts?filter_locale=0&set=590678)添加[漫画织机](https://greasyfork.org/scripts/397848)[9.7]
-
-- [PC网页补充篇](https://greasyfork.org/scripts?filter_locale=0&set=590548)移除“视频网页全屏(改)”(因为via5.9.0自带横竖屏切换了)[9.11]
-
-- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[为Gitee页面生成菜单](https://greasyfork.org/scripts/513028)[10.20]
-
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[🔐密码填充](https://greasyfork.org/scripts/511297)[10.20]
 
 - [不可说の篇](https://greasyfork.org/scripts?filter_locale=0&set=590678)添加[南加北加论坛强化脚本(凛+)](https://greasyfork.org/zh-CN/scripts/454120)[10.25]
@@ -54,6 +48,12 @@
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[网页加载分析](https://greasyfork.org/scripts/522056)(测试网页加载速度并显示加载最慢的三个网址的域名)[12.31]
 
 - [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[移除广告内嵌脚本](https://greasyfork.org/scripts/521454)(会移除网页内嵌的广告脚本，但网络请求类的还是用[广告拦截](messy-cont.md)才行)[12.31]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[http资源转https](https://greasyfork.org/scripts/525948)(http资源不会显示在https网址中，用此脚本替换。可能是为方便考虑限定了域名，可自行修改至全网页)[2.8]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[网页笔记助手](https://greasyfork.org/scripts/526070)[2.8]
+
+- [主体推荐篇](https://greasyfork.org/scripts?filter_locale=0&set=586537)添加[优化未登录情况下的BiliBili移动网页端](https://greasyfork.org/scripts/497732)[2.8]
 
 </details>
 
@@ -276,7 +276,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧作用于单一站点(44个)✧ </summary>
+  <summary> ✧作用于单一站点(45个)✧ </summary>
 
 - [蓝奏云重定向+记住密码](https://greasyfork.org/scripts/488847) 或 [ 蓝奏云自动点击下载](https://greasyfork.org/scripts/489281)(脚本功能开始冲突了，主推前者更适合via)
 
@@ -296,7 +296,7 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 - [手机百度搜索净化](https://greasyfork.org/scripts/467204) 和 [ 禁止百度搜索自动播放视频和禁止粘贴板口令](https://greasyfork.org/scripts/470469)
 
-- [【移动端】bilibili优化](https://greasyfork.org/scripts/494644) 、[bilibili移动端](https://greasyfork.org/scripts/490548) 和 [ bilibili移动端Lite](https://greasyfork.org/scripts/468246) 和(第一个是优化移动端网页的所有问题，功能多；第二个是将电脑端网页变为适配移动端网页的样式；第三个与第二个配套，是适用移动端网页，功能少点)
+- [【移动端】bilibili优化](https://greasyfork.org/scripts/494644) 、[bilibili移动端](https://greasyfork.org/scripts/490548) 和 [ bilibili移动端Lite](https://greasyfork.org/scripts/468246) 、[优化未登录情况下的BiliBili移动网页端](https://greasyfork.org/scripts/497732)(第一个是优化移动端网页的所有问题，功能多但也极大；第二个是将电脑端网页变为适配移动端网页的样式；第三个与第二个配套，是适用移动端网页，功能少点；第四个主要是优化未登录情况下的体验，比如未登录看评论区，这点比第三个好。三套不能混用)
 
 - [抖音优化](https://greasyfork.org/scripts/494643)
 
@@ -348,17 +348,19 @@ via浏览器更新5.0后便支持脚本设置，打开方式有两种：
 
 <details>
 
-  <summary> ✧可能用得上(16个)✧ </summary>
+  <summary> ✧可能用得上(18个)✧ </summary>
 
 - [护眼模式](https://greasyfork.org/scripts/426377) 和 [ 🌙 高级定制网页护眼模式🌙](https://greasyfork.org/scripts/485513)
 
 - [双指缩放网页](https://greasyfork.org/scripts/507136)(通过缩放元素大小来实现缩放网页内容，可以有效规避禁止缩放)
 
-- [HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629)(可以用此尝试避免一些HTTP协议导致的DNS污染，不过可能治标不治本)
+- [HTTP重定向至HTTPS](https://greasyfork.org/scripts/495629) 和[ http资源转https](https://greasyfork.org/scripts/525948)(http资源不会显示在https网址中，用此脚本替换。可能是为方便考虑限定了域名，可自行修改至全网页)[2.8](前者是将当前网址转为安全的https，后者是将https网页中无法加载的http资源变为https使其可加载[后者默认只适配酷安，需自行修改])
 
-- [仿via资源嗅探](https://greasyfork.org/scripts/471390)(模仿via自带的资源嗅探，在脚本菜单中显示嗅探到的音频、视频)
+- [仿via资源嗅探](https://greasyfork.org/scripts/471390)(模仿via自带的资源嗅探，在脚本菜单中显示嗅探到的音频、视频，一些特殊场景可以用到，比如iOS版暂无资源嗅探功能、资源嗅探白名单……)
 
 - [禁止网页双击放大](https://greasyfork.org/scripts/466682)
+
+- [网页笔记助手](https://greasyfork.org/scripts/526070)
 
 - [浏览器背景](https://greasyfork.org/scripts/493937)(将浏览器的背景变成某只笨蛋~，可以按注释自行更换图片)
 
