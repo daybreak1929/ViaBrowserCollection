@@ -1,4 +1,4 @@
-![输入图片说明](logo.png)
+![输入图片说明](newlogo.png)
 
 [Gitee](https://gitee.com/daybreak166/ViaBrowserCollection)|GitHub • [意见反馈](https://github.com/daybreak1929/ViaBrowserCollection/issues) • [更新日志](https://github.com/daybreak1929/ViaBrowserCollection/commits/main/)
 
