@@ -50,11 +50,17 @@ via大部分手势都是在 设置＞通用＞操作设定 内
 
 (普通方式 点击菜单中的“其他应用打开”)
 
-⚠↓下方的长按功能为5.4.0更新内容
-
 > 长按“阅读模式”可以打开阅读设置
 
 (普通方式 设置＞通用＞阅读模式)
+
+> 长按“网站设定”可以打开网站设定总设置
+
+(普通方式 设置＞通用＞网站设定)
+
+> 长按“字体大小”可以打开字体大小总设置
+
+(普通方式 设置＞通用＞网站设定＞字体大小)
 
 > 长按地址栏左侧图标选择“搜索引擎”
 
@@ -266,9 +272,9 @@ color:red !important;
 
 单独的主页功能
 
-- [酷安 _@耗子Sky_ 的主页搜索框历史记录](https://bitbucket.org/!api/2.0/snippets/lemon399/aqLxK4/4eeca77988a73c5cbb8a998bf89af21caacd67ae/files/hist.html)
+- [酷安 _@耗子Sky_ 的主页搜索框历史记录](https://lemon399.gitlab.io/page/vie/#/code?url=https://lemon399.gitlab.io/page/vie/settings-search-history.txt)
 
-进入链接，将代码全选，然后到设置＞定制＞Logo，选择“HTML代码”，将代码粘贴进去(代码前两行是via的自带logo，如果不需要可以删除)
+进入链接，点击“复制”(确保 设置＞通用＞网站设定 未禁用剪贴板权限)，然后根据网站提示放到相应地方
 
 - [酷安 _@undefined303_ 的主页搜索框提取链接](https://lanzoup.com/iXv4a1bj8uuf)
 
