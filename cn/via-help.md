@@ -272,9 +272,9 @@ color:red !important;
 
 单独的主页功能
 
-- [酷安 _@耗子Sky_ 的主页搜索框历史记录](https://lemon399.gitlab.io/page/vie/#/code?url=https://lemon399.gitlab.io/page/vie/settings-search-history.txt)
+- [酷安 _@耗子Sky_ 的主页搜索框历史记录](https://lemon399.gitlab.io/page/code-share-page/code?url=https://lemon399.gitlab.io/page/code-share-page/settings-search-history.txt)
 
-进入链接，点击“复制”(确保 设置＞通用＞网站设定 未禁用剪贴板权限)，然后根据网站提示放到相应地方
+进入链接(如无法进入请尝试使用科学/魔法)，点击“复制”(确保 设置＞通用＞网站设定 未禁用剪贴板权限)，然后根据网站提示放到相应地方
 
 - [酷安 _@undefined303_ 的主页搜索框提取链接](https://lanzoup.com/iXv4a1bj8uuf)
 
