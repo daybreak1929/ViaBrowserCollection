@@ -24,7 +24,7 @@
 
 > adgk手机去广告规则([GitHub主页](https://github.com/banbendalao/ADgk)，9000+规则，需开科学，⚠已较长时间未维护) <br> https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 
-> GOODBYEADS([GitHub主页](https://github.com/8680/GOODBYEADS)，1w+规则，包含“去除APP下载提醒”) <br> https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
+> GOODBYEADS([GitHub主页](https://github.com/8680/GOODBYEADS)，1w+规则，包含“去除APP下载提醒”) <br> https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
 
 > 屏蔽获取Cookie弹窗(2w+规则，需开科学) <br> https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
 
