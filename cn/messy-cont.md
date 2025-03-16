@@ -8,7 +8,7 @@
 
 ✧部分规则无法更新新请先尝试 开科学/魔法，无果后再尝试反馈作者
 
-主要推荐“[轻量广告拦截规则](https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)”、"[GOODBYEADS](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)"、“[混合规则精简版](https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt)”和“[Ad-J](https://raw.gitmirror.com/jk278/Ad-J/main/Ad-J.txt)”，不误杀就是最好的效果
+主要推荐“[轻量广告拦截规则](https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)”、"[GOODBYEADS](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)"、“[混合规则精简版](https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt)”，不误杀就是最好的效果
 
 <details><summary> ✧展开小型规则列表✧ </summary>
 
@@ -144,7 +144,7 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 
 <details><summary>常规搜索引擎列表(暂收录15个)</summary>
 
-> bing中国 <br> https://cn.bing.com/search?q= <br> via自带的为国际版，国内使用国际版会有一次重定向，或许可以规避一些加载慢的问题
+> bing中国 <br> https://cn.bing.com/search?qs=n&form=seinsb&sp=-1&q= <br> via自带的为国际版，国内使用国际版会有一次重定向，或许可以规避一些加载慢的问题
 
 > Oceanhero(德国的搜索引擎，称每五次搜索就收集一个海洋塑料瓶) <br> https://oceanhero.today/web?q= <br> 基于DuckDuckGo，无广告，完美的自动翻页，会保留到上次阅读词条，自带一个能识别中文但不会中文回答的AI
 
@@ -220,9 +220,9 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 
 > 微博 <br> https://weibo.com/search?containerid=100103type=1&q=
 
-> 小红书 <br> https://wap.sogou.com/web/xiaohongshu?keyword=
-
 > 微信文章 <br> https://weixin.sogou.com/weixinwap?type=2&query=
+
+> 搜狗知乎(可直接搜知乎帖) <br> https://m.sogou.com/web/searchList.jsp?insite=zhihu.com&keyword=
 
 > 知乎搜索(登录后才能使用，知乎网页限制) <br> https://www.zhihu.com/search?type=content&q=
 
@@ -258,7 +258,7 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 
 > 热点：[今日热榜](https://hot.dao.js.cn/)、[全站热榜](https://rebang.today/)、[即时热点](https://nowhots.com)、[每日早报晚报](https://tophub.today/daily)
 
-> 其他：[免费音乐MyFreeMP3](http://tool.liumingye.cn/music/)、[听蛙纯音乐网](https://www.itingwa.com/)、[无损生活音乐](https://flac.life/)、[纪妖](https://www.cbaigui.com/)(古今中外各类妖怪)、[诗境](https://photo2poem.top/)(根据图片匹配古诗)、[微科普](https://www.wkepu.com/)、[前往随机网站](https://theuselessweb.com/)、[WebGL流体模拟](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+> 其他：[歌曲海](https://www.gequhai.com/)、[听蛙纯音乐网](https://www.itingwa.com/)、[无损生活音乐](https://flac.life/)、[纪妖](https://www.cbaigui.com/)(古今中外各类妖怪)、[诗境](https://photo2poem.top/)(根据图片匹配古诗)、[微科普](https://www.wkepu.com/)、[前往随机网站](https://theuselessweb.com/)、[WebGL流体模拟](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
 *****
 
