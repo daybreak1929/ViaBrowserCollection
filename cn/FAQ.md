@@ -9,7 +9,7 @@
 
 #### 2.via浏览器触发异常问题？ && 屏幕底部弹出乱码怎么解决？
 
-> [官方问答](https://viayoo.com/zh-cn/docs/via-for-android-faq.html)中也有相应解释，可将相应截图反馈到[[QQ频道 ](https://pd.qq.com/s/142yif2dj)| [TG群组 ](https://t.me/+bMMIgOk0cnA3YjI9)  
+> [官方问答](https://viayoo.com/zh-cn/docs/via-for-android-faq.html#org8abacb3)中也有相应解释，可将相应截图反馈到[[QQ频道 ](https://pd.qq.com/s/142yif2dj)| [TG群组 ](https://t.me/+bMMIgOk0cnA3YjI9)]  
 > 设置＞关于，点击via的logo滑到最底下查看最新的log报错  
 > 如果滑不到底可以在关于页面的右上角点击分享，用其他软件查看 _log.txt_
 
@@ -63,12 +63,8 @@
 > ③系统不支持强制暗色。可能是webview版本过低或者模块影响，自行排查
 
 #### 10.各种同步方式有什么差异？
-
-> <small> 前提：不考虑root和系统备份的方法，仅探讨via内支持的同步方式 </small>  
-> ①使用差异：导入/导出数据在设置＞通用，下滑到底部才能看见，基于本地文件；云同步在设置＞通用＞同步中，基于via官方的云服务；webDAV同步也在同步中，但需要在右上角点击“WEBDAV”才能切换为webDAV同步，基于提供webDAV同步功能的网站服务，如根据[官方教程](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)来就是坚果云的webDAV服务  
-> ②数据方面：导入/导出数据＞webdav同步＞via的云同步。除备份不了网页数据(正常现象)外，上述提及的三种方式均不能同步主页图片、图标包/皮肤、最近关闭的标签页和离线页面。特殊的，via的云同步不同步脚本和规则，同步的书签数量也限制300条;仅有导入/备份数据支持同步自定义规则  
-> ③跨浏览器备份：webdav同步＞导入/导出数据＞via的云同步。webdav同步支持自动同步且可以选择只同步书签和收藏，也支持与floccus扩展同步数据，详见[chrome与via同步书签](https://blog.qianxun.site/教程/pc端chrome使用floccus扩展和移动端via同步书签/)  
-> ④跨设备备份：肿么？你via的iOS端是支持webdav和云同步？(不开玩笑了，还是希望iOS端早日更新)
+ 
+> 因markdown语法限制，现已转移至新页面→[数据管理](baike/data.md)
 
 #### 11.怎么装脚本？为什么脚本安装失败？
 
