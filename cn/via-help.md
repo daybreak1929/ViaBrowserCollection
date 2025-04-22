@@ -165,7 +165,7 @@ color:red !important;
 (普通方式 历史左下角“标签页”)
 
 > 地址栏长按搜索框弹出功能  
-![输入图片说明](img/longPressBar.png.png)
+![输入图片说明](img/longPressBar.png)
 <small>(注：搜索框长按菜单中“复制”出来的为url编码，进入搜索框全选“复制”的是可视文字)</small>
 
 ### ✨👋🏻手势功能
