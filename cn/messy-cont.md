@@ -237,13 +237,11 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 
 2. [油猴脚本收集列表](script-share.md)([脚本说明](baike/script.md))
 
-3. [广告拦截规则+浏览器标识+图标包等](messy-cont.md)
+3. [数据管理(百科中间页)](baike/data.md)
 
-4. [数据管理(百科中间页)](baike/data.md)
+4. [via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
 
-5. [via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
-
-6. [(via官方教程)使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)
+5. [(via官方教程)使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)
 
 *****
 
