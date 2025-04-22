@@ -1,5 +1,9 @@
 # 奇奇怪怪的推荐
 
+*****
+
+本页目录：[🚫拦截规则](#%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E8%A7%84%E5%88%99adblock)|[ 📲浏览器标识](#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%87%E8%AF%86user-agent)|[🔍搜索引擎](#%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8Esearch-engines)|[📖藏书阁](#%E8%97%8F%E4%B9%A6%E9%98%81bookmark-library)|[💡其他](#%E5%85%B6%E4%BB%96others)
+
 ## 🚫广告拦截规则(Adblock)
 
 > 使用方法：将网址单独复制，然后进入via的设置＞通用＞广告拦截＞规则订阅，点击右上角添加符号(默认为“+”)，选择“自定义”，将下列网址粘贴进去
@@ -12,9 +16,11 @@
 
 <details><summary> ✧展开小型规则列表✧ </summary>
 
-> Ad-J([GitHub主页](https://github.com/jk278/Ad-J)，400+规则) <br> https://raw.gitmirror.com/jk278/Ad-J/main/Ad-J.txt
+> Ad Filter J([GitHub主页](https://github.com/jk278/Ad-J)，400+规则) <br> https://raw.gitmirror.com/jk278/Ad-J/main/Ad-J.txt
 
 > 去除APP下载提醒([GitHub主页](https://github.com/Noyllopa/NoAppDownload)，1000+规则) <br> https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
+
+> Adblock Warning Removal List(2000+规则，via预留，用于移除网站屏蔽拦截) <br> https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
 > 轻量广告拦截规则([GitHub主页](https://github.com/damengzhu/banad)，酷安@大萌主，5000+规则) <br> https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
@@ -44,29 +50,9 @@
 
 </details>
 
-<details><summary> ✧自定义规则简易使用方法✧ </summary>
-
-例如：隐藏百度首页自动播放的视频(因为不是广告，大多规则订阅并不会将其加入)
-
-```
-baidu.com##[data-video-play-type="true"]
-```
-
-进入via的设置＞通用＞广告拦截＞自定义规则，将规则粘贴进去即可
-
-![输入图片说明](img/custom.png)
-
-</details>
-
-> 直接添加自定义规则一般很少用到，因为菜单中的“标记广告”功能(长按菜单中“设置”就能将“标记广告”添加入菜单)可以直接在页面上选中。如遇无法标记的广告可以寻求帮助
-
 <br>
 
-⚠注意
-
-> 尽管via浏览器目前已经支持广告规则去重(4.5.0)，但重复的规则仍然会拖慢网页加载速度，请适量 <br> <details><summary> 了解详细 </summary>![输入图片说明](img/OOM.png)</details>
-
-> via浏览器的“启用内建规则”建议开启，如遇误杀直接将问题反馈给官方即可 <br> <details><summary> 了解详细 </summary> ![输入图片说明](img/built-in.png) <br> ![输入图片说明](img/answer.png)</details>
+[>>前往了解更多“广告拦截”](baike/adp.md)
 
 *****
 
@@ -74,11 +60,12 @@ baidu.com##[data-video-play-type="true"]
 
 浏览器标识(简称UA)可以使服务器能够识别客户使用的操作系统及版本、浏览器内核及版本、浏览器渲染引擎、浏览器语言等,让网页作出相应的适应(如识别电脑手机端、添加推送等)
 
-添加方法：设置＞通用＞浏览器标识，点击右上角的添加符号(默认为“+”)，将需添加到UA粘贴进“浏览器标识”框内即可
+> 添加方法：设置＞通用＞浏览器标识，点击右上角的添加符号(默认为“+”)，将需添加的UA粘贴进“浏览器标识”框内即可
 
 ![输入图片说明](img/addUA.png)
 
-具体使用：①全局设定：在上述添加处更换或者长按菜单中“电脑模式”然后更换 <br> ②单独设定：进入网址，点击地址栏左侧图标(默认为小护盾)，点击“网站设定”，启用后更换此页面中的浏览器标识
+> 具体使用：①全局设定：在上述添加处更换或者长按菜单中“电脑模式”，在弹窗中更换  
+②单独设定：进入网址，点击地址栏左侧图标(默认为小护盾)，点击“网站设定”，启用后更换此页面中的浏览器标识
 
 ⚠提醒：因部分网站的特殊性，应尽量避免使用除默认以外的全局UA，不然可能出现无法通过Google安全认证、Cloudflare人机验证频繁失败等问题
 
@@ -90,37 +77,19 @@ baidu.com##[data-video-play-type="true"]
 
 > Mozilla/5.0 (Linux; U; Android 10; zh-CN; 2014811 Build/QQ3A.200805.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/119.0.2564.116 Quark/3.8.2.126 Mobile Safari/537.36 T7/10.3 SearchCraft/2.6.3 (Baidu; P1 8.0.0) edge
 
-2.简单搜索UA新版 
-
-> 优点：百度有AI、关自动播放(会缓存)、会自动翻页、防拉💩 <br> 缺点：没有搜索框、UI变动大、没有横栏切换、视频仍然会缓存
-
-> Mozilla/5.0 (Linux; Android 12; PDKM00 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36 T7/13.50 ChatSearch/1.0 SearchCraft/5.10.0.13 (Baidu; P1 12)
-
-3.Edge移动端浏览器默认UA 
+2.Edge UA(移动，已简化)
 
 > 优点：百度关自动播放(不缓存)、有搜索框；必应去除下载提醒 <br> 缺点：不防百度拉💩
 
-> Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36 EdgA/129.0.0.0
+> Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
 
-4.小米浏览器默认UA 
+3.夸克UA
 
-> 最好是给百度系网站单独设置
+> 最好是给神马/夸克系单独设置去除app提示，内核旧
 
-> Mozilla/5.0 (Linux; U; Android 14; zh-cn; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5414.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/18.5.40902
+> Mozilla/5.0 (Linux; U; Android 14; zh-CN; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Quark/7.10.5.800 Mobile Safari/537.36
 
-5.微信8.0.49版本的UA
-
-> 最好是只给提醒“请用微信APP打开”的网站使用
-
-> Mozilla/5.0 (Linux; Android 14; 22081212C Build/UKQ1.230917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 XWEB/1160175 MMWEBSDK/20240404 MMWEBID/7962 MicroMessenger/8.0.49.2600(0x2800313D) WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64
-
-6.夸克UA
-
-> 最好是给神马/夸克系单独设置去除app提示
-
-> Mozilla/5.0 (Linux; U; Android 14; zh-CN; 22081212C Build/UKQ1.230917.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Quark/7.2.6.641 Mobile Safari/537.36
-
-7.QQ浏览器UA
+4.QQ浏览器UA
 
 > 众所周知，搜狗搜索现在已经是腾讯的形状了，需要调教一下
 
@@ -128,9 +97,9 @@ baidu.com##[data-video-play-type="true"]
 
 </details>
 
-这边不打算更新更多了，提供一个检测UA的网站，也附带了一些常见浏览器的UA
+<br>
 
-[UA检测-在线工具](https://useragent.buyaocha.com)
+[>>前往了解更多关于“浏览器标识”](baike/ua.md)
 
 *****
 
@@ -266,15 +235,13 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 
 1. [问答专区及使用技巧](FAQ.md)
 
-2. 油猴脚本收藏夹([→戳这看介绍←](script-share.md))
+2. [油猴脚本收集列表](script-share.md)([脚本说明](baike/script.md))
 
-- [→GreasyFork收藏夹(via浏览器可用)地址←](https://greasyfork.org/scripts?filter_locale=0&set=586537)
+3. [广告拦截规则+浏览器标识+图标包等](messy-cont.md)
 
-3. [via小功能或冷门知识](via-help.md)
+4. [数据管理(百科中间页)](baike/data.md)
 
-4. [via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
-
-5. [via历史版本(官方版，豌豆荚链接)](https://m.wandoujia.com/apps/6609177/history)
+5. [via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
 
 6. [(via官方教程)使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)
 
