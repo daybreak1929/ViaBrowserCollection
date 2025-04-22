@@ -1,7 +1,5 @@
 # 奇奇怪怪的推荐
 
-*****
-
 本页目录：[🚫拦截规则](#%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E8%A7%84%E5%88%99adblock)|[ 📲浏览器标识](#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%87%E8%AF%86user-agent)|[🔍搜索引擎](#%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8Esearch-engines)|[📖藏书阁](#%E8%97%8F%E4%B9%A6%E9%98%81bookmark-library)|[💡其他](#%E5%85%B6%E4%BB%96others)
 
 ## 🚫广告拦截规则(Adblock)
@@ -236,12 +234,14 @@ via5.5.0后支持自定义多个搜索引擎，在5.8.0后将搜索建议、搜�
 1. [问答专区及使用技巧](FAQ.md)
 
 2. [油猴脚本收集列表](script-share.md)([脚本说明](baike/script.md))
+ 
+3. [via小功能或冷门知识](via-help.md)
 
-3. [数据管理(百科中间页)](baike/data.md)
+4. [数据管理(百科中间页)](baike/data.md)
 
-4. [via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
+5. [via浏览器各版本的拾穗整理](https://www.sgfox.cc/archives/via-shisui.html)
 
-5. [(via官方教程)使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)
+6. [(via官方教程)使用webdav同步数据](https://viayoo.com/zh-cn/docs/sync-your-data-via-webdav.html)
 
 *****
 
