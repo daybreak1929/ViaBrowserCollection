@@ -304,15 +304,30 @@ Android版6.3.0及以后，添加了默认不显示的“实验”设置。可�
 
 <details>
   <summary> ©展开列表 </summary>
-  
-- 沉浸式书签页(实际上就是文件地址)
+
+- via功能页 
+> v:// _或_ via://
+> file:///data/user/0/mark.via/files/catalog.html
+
+- 沉浸式书签页
+> v://bookmark _或_ via://bookmark
 > file:///data/user/0/mark.via/files/bookmarks.html
 
-- 当前版本拾穗页(实际上也是文件地址)
+- 当前版本拾穗页
+> v://about _或_ via://about
 > file:///data/user/0/mark.via/files/about.html
 
 - 沉浸式历史页 
-> history//
+> history://
+> file:///data/user/0/mark.via/files/history.html
+
+- 沉浸式离线页 
+> v://offline _或_ via://offline
+> file:///data/user/0/mark.via/files/save.html
+
+- 网络日志
+> v://log _或_ via://log
+> file:///data/user/0/mark.via/files/log.html
 
 - 小窗口书签页 
 > folder://
@@ -332,13 +347,7 @@ Android版6.3.0及以后，添加了默认不显示的“实验”设置。可�
 - 大书签页(历史部分)
 > v://history _或_ via://history
 
-- via功能页 
-> v:// _或_ via://
-
-- 沉浸式离线页 
-> v://offline _或_ via://offline
-
-- 在主页时是小窗口书签页，在其他网页是沉浸式书签页
+- 在主页时是小窗口书签页，在其他网页是大书签页
 > v://bookmarks _或_ via://bookmarks
 
 - 图标包切换页 
