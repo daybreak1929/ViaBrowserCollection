@@ -30,9 +30,11 @@ via官网的[Android版via常见问题文档](https://viayoo.com/zh-cn/docs/via-
 
 [via历史版本(官方版，豌豆荚链接)](https://m.wandoujia.com/apps/6609177/history)
 
-AndroidWebview下载：[谷歌商店](https://play.google.com/store/apps/details?id=com.google.android.webview) |[ 国内下载站](https://m.downkuai.com/android/167450.html)(确保[谷歌服务框架](http://m.3673.com/down/7083.html)和[谷歌商店](http://m.3673.com/down/17484.html)能正常运行或登录)
-
-[15版本的HuaweiWebview(123盘)](https://www.123pan.com/s/OuOKVv-Q2I63.html)(相当于AndroidWebview114版本)
+Webview下载：  
+>> [谷歌Play商店](https://play.google.com/store/apps/details?id=com.google.android.webview)(确保[谷歌服务框架](http://m.3673.com/down/7083.html)和[谷歌Play商店](http://m.3673.com/down/17484.html)能正常运行或登录)  
+>> [国内下载站](https://m.downkuai.com/android/167450.html)(系统安装器可能无法安装，需要第三方安装器)
+> 
+> [HuaweiWebview(123盘)](https://www.123pan.com/s/OuOKVv-Q2I63.html)(15.0.4.136版本。相当于AndroidWebview114版本)
 
 *****
 
@@ -40,7 +42,7 @@ AndroidWebview下载：[谷歌商店](https://play.google.com/store/apps/details
 
 > “希望via能长久地同你浏览这个世界所共享的” <details> <summary> 详细展开 </summary> ![输入图片说明](cn/img/FirstAnniversary.png) </details>
 
-> 正如开发者所构想的那般，Via仍走在简的路上探索。但相比从前，用户也在不断涌入，目前在酷安上已是1千万下载的量级，也有、也需要诸如[谷花泰](http://www.coolapk.com/u/486230)、[达蒙山](http://www.coolapk.com/u/1563443)、[undefined303](http://www.coolapk.com/u/4023639)、[耗子Sky](http://www.coolapk.com/u/1166187)以及其他无数制作教程合集的大佬们在为其保持活力。这就同v大所说“其实是取音的，音同‘we are’” “其实这个‘我们’指的是方寸屏幕前的你我”，我们正在共同构建起一个属于自己的“我们”，既然如此，我何不贡献自己的一份力呢？
+> 正如开发者所构想的那般，Via仍走在简单的路上探索。但相比从前，用户也在不断涌入，目前在酷安上已是1千万下载的量级，也有、也需要诸如[谷花泰](http://www.coolapk.com/u/486230)、[达蒙山](http://www.coolapk.com/u/1563443)、[undefined303](http://www.coolapk.com/u/4023639)、[耗子Sky](http://www.coolapk.com/u/1166187)以及其他无数制作教程合集的大佬们在为其保持活力。这就同v大所说“其实是取音的，音同‘we are’” “其实这个‘我们’指的是方寸屏幕前的你我”，我们正在共同构建起一个属于自己的“我们”，既然如此，我何不贡献自己的一份力呢？
 
 特别鸣谢
 
