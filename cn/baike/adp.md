@@ -10,15 +10,15 @@
 
 ![输入图片说明](../img/adblock.png)
 
-✧部分规则无法更新新请先尝试 开科学/魔法，无果后再尝试反馈规则作者
+✧给出规则多为镜像，可能不稳定，如有条件可通过GitHub主页订阅
 
-主要推荐“[轻量广告拦截规则](https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)”、"[GOODBYEADS](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)"、“[混合规则精简版](https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt)”，不误杀就是最好的效果
+主要推荐“[轻量广告拦截规则](https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)”、"[GOODBYEADS](https://slink.ltd/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)"、“[混合规则精简版](https://slink.ltd/https://raw.githubusercontent.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt)”，不误杀就是最好的效果
 
 <details><summary> ✧展开小型规则列表✧ </summary>
 
-> Ad Filter J([GitHub主页](https://github.com/jk278/Ad-J)，400+规则) <br> https://raw.gitmirror.com/jk278/Ad-J/main/Ad-J.txt
+> Ad Filter J([GitHub主页](https://github.com/jk278/Ad-J)，400+规则) <br> https://slink.ltd/https://raw.githubusercontent.com/jk278/Ad-J/main/Ad-J.txt
 
-> 去除APP下载提醒([GitHub主页](https://github.com/Noyllopa/NoAppDownload)，1000+规则) <br> https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
+> 去除APP下载提醒([GitHub主页](https://github.com/Noyllopa/NoAppDownload)，1000+规则) <br> https://fastly.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
 
 > Adblock Warning Removal List(2000+规则，via预留，用于移除网站屏蔽拦截) <br> https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
@@ -26,27 +26,27 @@
 
 > AdGuard Mobile(7000+规则，专治手机端的广告) <br> https://filters.adtidy.org/extension/ublock/filters/11.txt)
 
-> 去广告Adblock规则(酷安@夕阳醉歌，7000+规则) <br> https://raw.gitmirror.com/lingeringsound/adblock_auto/main/base/%E5%85%B6%E4%BB%96.prop
+> 去广告Adblock规则(酷安@夕阳醉歌，7000+规则) <br> https://slink.ltd/https://raw.githubusercontent.com/lingeringsound/adblock_auto/main/base/%E5%85%B6%E4%BB%96.prop
 
-> adgk手机去广告规则([GitHub主页](https://github.com/banbendalao/ADgk)，9000+规则，需开科学，⚠已较长时间未维护) <br> https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+> adgk手机去广告规则([GitHub主页](https://github.com/banbendalao/ADgk)，9000+规则，需开科学，⚠已较长时间未维护) <br> https://slink.ltd/https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 
-> GOODBYEADS([GitHub主页](https://github.com/8680/GOODBYEADS)，1w+规则，包含“去除APP下载提醒”) <br> https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
+> GOODBYEADS([GitHub主页](https://github.com/8680/GOODBYEADS)，1w+规则，包含“去除APP下载提醒”) <br> https://slink.ltd/https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
 
-> 屏蔽获取Cookie弹窗(2w+规则，需开科学) <br> https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
+> 屏蔽获取Cookie弹窗(2w+规则) <br> https://slink.ltd/https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
 
 </details>
 
 <details><summary> ✧展开大型规则列表✧ </summary>
 
-> 混合规则精简版([发布页](https://lingeringsound.github.io/adblock_auto/)，酷安@夕阳醉歌，3w+规则，包含“AdGuard Mobile”、“去广告Adblock规则”) <br> https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt
+> 混合规则精简版([发布页](https://lingeringsound.github.io/adblock_auto/)，酷安@夕阳醉歌，3w+规则，包含“AdGuard Mobile”、“去广告Adblock规则”) <br> https://slink.ltd/https://raw.githubusercontent.com/lingeringsound/adblock_auto/main/Rules/adblock_auto_lite.txt
 
-> AdKiller-Lite([GitHub主页](https://github.com/PhoenixLjw/AdRules)，3w+规则，包含“轻量广告拦截规则”和“去除APP下载提醒”) <br> https://raw.gitmirror.com/PhoenixLjw/AdRules/main/filter-lite.txt
+> AdKiller-Lite([GitHub主页](https://github.com/PhoenixLjw/AdRules)，3w+规则，包含“轻量广告拦截规则”和“去除APP下载提醒”) <br> https://slink.ltd/https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/filter-lite.txt
 
 > AdRules AdBlock List Lite([GitHub主页](https://github.com/Cats-Team/AdRules)，3w+规则) <br> https://adrules.top/adblock_lite.txt
 
-> ABP Merge Rules([GitHub主页](https://github.com/damengzhu/abpmerge)，5w+规则，包含“轻量广告拦截规则”) <br> https://raw.gitmirror.com/damengzhu/abpmerge/main/abpmerge.txt
+> ABP Merge Rules([GitHub主页](https://github.com/damengzhu/abpmerge)，5w+规则，包含“轻量广告拦截规则”) <br> https://slink.ltd/https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt
 
-> AdBlock Filter([GitHub主页](https://github.com/217heidai/adblockfilters)，10w+规则，包含“轻量广告拦截规则”) <br> https://ghp.ci/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
+> AdBlock Filter([GitHub主页](https://github.com/217heidai/adblockfilters)，10w+规则，包含“轻量广告拦截规则”) <br> https://slink.ltd/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
 
 </details>
 
